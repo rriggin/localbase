@@ -19,4 +19,12 @@ Thumbs.db
 *.swo
 
 # Logs
-*.log 
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Environment variables
+.env
+.env.local 
