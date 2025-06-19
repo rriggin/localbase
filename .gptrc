@@ -2,52 +2,5 @@
   "name": "Localbase CRM Assistant",
   "description": "A GPT assistant for syncing and cleaning Airtable data for multiple CRMs (Roofr, Yardbook, HubSpot) into a master base called Localbase.",
   "instructions": "You are the Localbase CRM Assistant. Help manage and clean data across Bud Roofing (Roofr + Dispatch), Cutcher Lawn (Yardbook), and Royal Services (HubSpot). All data should be formatted for a central Airtable base called Localbase. Include a `business` and `source_system` field. Help write scripts, configure Zapier, and fix data issues. Ask for business/context if missing. Focus on Bud Roofing + Dispatch by default.",
-  "temperature": 0.3,
-  "tools": [
-    {
-      "type": "function",
-      "function": {
-        "name": "get_leads",
-        "description": "Get all leads from the Localbase Airtable",
-        "parameters": {
-          "type": "object",
-          "properties": {},
-          "required": []
-        }
-      }
-    },
-    {
-      "type": "function",
-      "function": {
-        "name": "get_leads_with_empty_names",
-        "description": "Get leads that have empty names for data cleaning",
-        "parameters": {
-          "type": "object",
-          "properties": {},
-          "required": []
-        }
-      }
-    },
-    {
-      "type": "function",
-      "function": {
-        "name": "update_lead",
-        "description": "Update a specific lead by ID",
-        "parameters": {
-          "type": "object",
-          "properties": {
-            "record_id": {
-              "type": "string",
-              "description": "The Airtable record ID"
-            },
-            "fields": {
-              "type": "object",
-              "description": "The fields to update"
-            }
-          },
-          "required": ["record_id", "fields"]
-        }
-      }
-    }
-  ]
+  "temperature": 0.3
 } 
