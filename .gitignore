@@ -1,30 +1,68 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
+
+# Distribution / packaging
 .Python
-env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Virtual environment
 venv/
+ENV/
+env/
 .venv/
 
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
+# IDE files
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# Logs
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
 *.log
+*.tmp
+temp/
+tmp/
 
-# Environment variables
-.env
-.env.local
+# Output files (unless specifically needed)
+data/outputs/*.png
+data/outputs/*.jpg
+data/outputs/*.pdf
 
-# Environment variables
-.env
-.env.local 
+# Legacy scripts archive
+archive/ .specstory/
+
+# Cursor/AI history files
+.specstory/
+**/.specstory/
