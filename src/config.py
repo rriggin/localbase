@@ -52,6 +52,10 @@ class LocalBaseConfig:
         self.supabase_anon_key = os.getenv("SUPABASE_ANON_KEY")
         self.supabase_access_token = os.getenv("SUPABASE_ACCESS_TOKEN")
         
+        # RoofmaxxConnect configuration
+        self.roofmaxxconnect_base_url = os.getenv("ROOFMAXXCONNECT_BASE_URL", "https://api.roofmaxxconnect.com")
+        self.roofmaxxconnect_bearer_token = os.getenv("ROOFMAXXCONNECT_BEARER_TOKEN")
+        
         # RingCentral configuration (for future direct API if fixed)
         self.ringcentral_client_id = os.getenv("RINGCENTRAL_CLIENT_ID")
         self.ringcentral_client_secret = os.getenv("RINGCENTRAL_CLIENT_SECRET")
@@ -85,6 +89,16 @@ class LocalBaseConfig:
                     "report_formats": ["json", "chart"]
                 }
             },
+            "roofmaxx_data_sync": {
+                "name": "RoofmaxxConnect Data Sync",
+                "description": "Sync clean roofing data from RoofmaxxConnect",
+                "required_services": ["roofmaxxconnect", "airtable"],
+                "config": {
+                    "sync_interval_hours": 6,
+                    "batch_size": 100,
+                    "data_fields": ["customers", "jobs", "estimates"]
+                }
+            },
             "google_maps_scraper": {
                 "name": "Google Maps Scraper",
                 "description": "Extract addresses from Google Maps lists",
@@ -102,7 +116,7 @@ class LocalBaseConfig:
         Get or create a service instance with dependency injection.
         
         Args:
-            service_name: Name of the service ('airtable', 'supabase', etc.)
+            service_name: Name of the service ('airtable', 'supabase', 'roofmaxxconnect', etc.)
             
         Returns:
             Initialized service instance
@@ -136,6 +150,10 @@ class LocalBaseConfig:
                 "url": self.supabase_url,
                 "anon_key": self.supabase_anon_key,
                 "access_token": self.supabase_access_token
+            },
+            "roofmaxxconnect": {
+                "base_url": self.roofmaxxconnect_base_url,
+                "bearer_token": self.roofmaxxconnect_bearer_token
             },
             "ringcentral": {
                 "client_id": self.ringcentral_client_id,
@@ -185,7 +203,7 @@ class LocalBaseConfig:
         
         unhealthy_services = []
         
-        for service_name in ["airtable", "supabase"]:
+        for service_name in ["airtable", "supabase", "roofmaxxconnect"]:
             try:
                 service = self.get_service(service_name)
                 service_health = service.health_check()
@@ -215,7 +233,8 @@ class LocalBaseConfig:
             "services_available": list(self._services.keys()),
             "agents_configured": list(self.agent_configs.keys()),
             "airtable_configured": bool(self.airtable_token),
-            "supabase_configured": bool(self.supabase_url and self.supabase_access_token)
+            "supabase_configured": bool(self.supabase_url and self.supabase_access_token),
+            "roofmaxxconnect_configured": bool(self.roofmaxxconnect_bearer_token)
         }
 
 
