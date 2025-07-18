@@ -1,0 +1,14 @@
+{
+  "job_id": "7251024",
+  "customer_name": "Mary Menard",
+  "customer_email": "mmenardkc@gmail.com",
+  "job_address": "5000 NW 83rd Ter, Kansas City, MO 64151",
+  "job_status": "New lead",
+  "job_value": 0,
+  "estimate_amount": 0,
+  "invoice_amount": 0,
+  "payment_status": "Unpaid",
+  "lead_source": "NAP",
+  "created_date": "2025-06-18T20:21:00Z",
+  "updated_date": "2025-06-18T20:21:00Z"
+}

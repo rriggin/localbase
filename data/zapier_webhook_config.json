@@ -1,0 +1,33 @@
+{
+  "name": "Roofr to Airtable Sync",
+  "trigger": {
+    "type": "webhook",
+    "url": null,
+    "method": "POST",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "action": {
+    "type": "airtable",
+    "operation": "create_or_update_record",
+    "base_id": "app9Mj5rbIFvK9p9D",
+    "table_name": "Leads",
+    "field_mapping": {
+      "Name": "{{customer_name}}",
+      "Email": "{{customer_email}}",
+      "Phone": "{{customer_phone}}",
+      "Address": "{{job_address}}",
+      "Status": "{{job_status}}",
+      "Business": "Bud Roofing",
+      "Source System": "Roofr",
+      "External Job ID": "{{job_id}}",
+      "Invoice Amount": "{{job_value}}",
+      "Payment Status": "{{payment_status}}",
+      "Lead Source": "{{lead_source}}",
+      "Created Date": "{{created_date}}",
+      "Updated Date": "{{updated_date}}"
+    },
+    "match_field": "Email"
+  }
+}

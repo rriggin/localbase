@@ -1,0 +1,6 @@
+openai==1.3.0
+python-dotenv==1.0.0
+requests==2.31.0
+pandas>=2.2.0
+ringcentral==0.0.1
+selenium==4.15.2 supabase>=2.0.0

@@ -1,0 +1,40 @@
+{
+  "name": "Extract Roofr Financial Data",
+  "description": "Extract financial data from Roofr for customers",
+  "trigger": {
+    "app": "Webhooks by Zapier",
+    "event": "Catch Hook",
+    "url": null,
+    "method": "POST"
+  },
+  "actions": [
+    {
+      "app": "Roofr",
+      "event": "Find Job",
+      "search_by": "Customer Email",
+      "search_value": "{{customer_email}}"
+    },
+    {
+      "app": "Roofr",
+      "event": "Get Job Details",
+      "job_id": "{{job_id}}",
+      "include_financial": true
+    },
+    {
+      "app": "Airtable",
+      "event": "Create or Update Record",
+      "base_id": "app9Mj5rbIFvK9p9D",
+      "table": "Leads",
+      "fields": {
+        "Name": "{{customer_name}}",
+        "Email": "{{customer_email}}",
+        "Invoice Amount": "{{job_value}}",
+        "Payment Status": "{{payment_status}}",
+        "Source System": "Roofr",
+        "External Job ID": "{{job_id}}",
+        "Updated Date": "{{updated_at}}"
+      },
+      "match_field": "Email"
+    }
+  ]
+}

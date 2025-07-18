@@ -1,0 +1,28 @@
+{
+  "description": "Zapier webhook configuration for RingCentral \u2192 Supabase",
+  "zapier_action": {
+    "app": "Webhooks by Zapier",
+    "action": "POST",
+    "url": "https://your-project-ref.supabase.co/rest/v1/call_logs",
+    "headers": {
+      "Authorization": "Bearer sbp_63eef9600b41aa273fcb935095a2bb6166ef2368",
+      "Content-Type": "application/json",
+      "apikey": "your_anon_key_here"
+    },
+    "body_mapping": {
+      "call_id": "{{call_id}}",
+      "from_number": "{{from_number}}",
+      "to_number": "{{to_number}}",
+      "from_name": "{{from_name}}",
+      "to_name": "{{to_name}}",
+      "direction": "{{direction}}",
+      "duration": "{{duration}}",
+      "result": "{{result}}",
+      "start_time": "{{start_time}}",
+      "extension": "{{extension}}",
+      "queue": "{{queue}}",
+      "handle_time": "{{handle_time}}",
+      "raw_data": "{{*}}"
+    }
+  }
+}
