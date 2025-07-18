@@ -37,6 +37,12 @@ except ImportError:
     pass
 
 try:
+    from .roofmaxxconnect.client import RoofmaxxConnectService
+    register_service("roofmaxxconnect", RoofmaxxConnectService)
+except ImportError:
+    pass
+
+try:
     from .ringcentral.client import RingCentralService
     register_service("ringcentral", RingCentralService)
 except ImportError:

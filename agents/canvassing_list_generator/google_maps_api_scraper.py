@@ -16,7 +16,7 @@ import json
 
 # Add parent directory to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from load_env import load_env
+from config.env import load_env
 
 @dataclass
 class AddressItem:

@@ -10,55 +10,31 @@ import argparse
 # Add the parent directory to the path to import config
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from config import get_config
+from src.config import config
 
 def load_from_airtable():
     """Load lead data from Airtable and analyze sources"""
     
-    config = get_config()
+    # Get Airtable service from modern config
+    airtable_service = config.get_service('airtable')
     
     print("Fetching lead source data from Airtable...")
     print("="*50)
     
-    # Fetch all records from Airtable
-    records = []
-    offset = None
+    # Fetch all records using modern service (handles pagination automatically)
+    airtable_records = airtable_service.get_records()
     
-    while True:
-        params = {"pageSize": 100}
-        if offset:
-            params["offset"] = offset
+    # Convert to simple format for analysis
+    records = []
+    for record in airtable_records:
+        fields = record.fields
         
-        response = requests.get(config.AIRTABLE_URL, headers=config.AIRTABLE_HEADERS, params=params)
-        response.raise_for_status()
-        data = response.json()
-        
-        for record in data["records"]:
-            fields = record.get("fields", {})
-            
-            # Get lead source using field mapping
-            source_field = config.get_field_name("airtable", "source")
-            lead_source = fields.get(source_field, "")
-            
-            # Get business for additional context
-            business_field = config.get_field_name("airtable", "business")
-            business = fields.get(business_field, "")
-            
-            # Get name for reference
-            name_field = config.get_field_name("airtable", "name")
-            name = fields.get(name_field, "")
-            
-            records.append({
-                "name": name,
-                "source": lead_source,
-                "business": business
-            })
-        
-        # Check if there are more pages
-        if "offset" in data:
-            offset = data["offset"]
-        else:
-            break
+        # Extract key fields (using common Airtable field names)
+        records.append({
+            "name": fields.get("Name", ""),
+            "source": fields.get("Source", ""), 
+            "business": fields.get("Business", "")
+        })
     
     print(f"Loaded {len(records)} records from Airtable")
     return records
