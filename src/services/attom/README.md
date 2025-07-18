@@ -41,7 +41,7 @@ pip install requests pandas python-dotenv
 
 ### Test Mode (3 records)
 ```bash
-cd agents/residential_property_enrichment
+cd agents/attom_agent
 python3 run_enrichment.py your_addresses.csv --test
 ```
 
@@ -247,7 +247,7 @@ For issues or questions:
 
 ### Agent Structure
 ```
-agents/residential_property_enrichment/
+agents/attom_agent/
 ├── __init__.py                    # Agent package
 ├── property_enrichment_agent.py   # Core agent logic
 ├── run_enrichment.py             # CLI runner script

@@ -66,6 +66,9 @@ class LocalBaseConfig:
         # OpenAI configuration
         self.openai_api_key = os.getenv("OPENAI_API_KEY")
         
+        # ATTOM Data configuration 
+        self.attom_api_key = os.getenv("ATTOM_API_KEY")
+        
     def _build_agent_configs(self) -> Dict[str, Dict[str, Any]]:
         """Build configuration dictionaries for each agent type."""
         return {
@@ -89,6 +92,18 @@ class LocalBaseConfig:
                     "report_formats": ["json", "chart"]
                 }
             },
+            "google_maps_scraper": {
+                "name": "Google Maps Address Scraper",
+                "description": "Extract addresses from Google Maps lists and save to Airtable",
+                "required_services": ["airtable"],
+                "config": {
+                    "default_headless": True,
+                    "default_timeout": 15,
+                    "batch_size": 100,
+                    "max_retries": 3,
+                    "default_business_name": "Google Maps Import"
+                }
+            },
             "roofmaxx_data_sync": {
                 "name": "RoofmaxxConnect Data Sync",
                 "description": "Sync clean roofing data from RoofmaxxConnect",
@@ -99,14 +114,17 @@ class LocalBaseConfig:
                     "data_fields": ["customers", "jobs", "estimates"]
                 }
             },
-            "google_maps_scraper": {
-                "name": "Google Maps Scraper",
-                "description": "Extract addresses from Google Maps lists",
-                "required_services": ["airtable"],  # For storing results
+            "attom_property_enrichment": {
+                "name": "ATTOM Property Enrichment Agent",
+                "description": "Enrich addresses with property data using ATTOM Data API",
+                "required_services": ["airtable"],
                 "config": {
-                    "batch_size": 100,
-                    "delay_between_requests": 1.0,
-                    "max_retries": 3
+                    "api_key": self.attom_api_key,
+                    "base_url": "https://api.gateway.attomdata.com/propertyapi/v1.0.0",
+                    "rate_limit_delay": 1.1,
+                    "batch_size": 50,
+                    "max_retries": 3,
+                    "timeout": 30
                 }
             }
         }

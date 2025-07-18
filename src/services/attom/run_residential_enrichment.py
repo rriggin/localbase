@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # Add parent directory to path for imports
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from residential_property_enrichment import ResidentialPropertyEnrichmentAgent
+from attom_agent import ResidentialPropertyEnrichmentAgent
 import logging
 
 # Set up logging
