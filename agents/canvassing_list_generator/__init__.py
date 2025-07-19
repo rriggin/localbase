@@ -14,7 +14,7 @@ Key Features:
 - Automated workflow integration
 """
 
-from .google_maps_agent import GoogleMapsAgent
+from .agent import GoogleMapsAgent
 from .scraper import GoogleMapsListScraper
 
 __all__ = ['GoogleMapsAgent', 'GoogleMapsListScraper']
