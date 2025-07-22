@@ -20,10 +20,285 @@ LocalBase is a collection of **AI MCP (Model Context Protocol) agents** and **pr
 ### 🤖 AI Agents  
 | Agent | Purpose | Status | Uses Services |
 |-------|---------|--------|---------------|
-| **Airtable Viewer** | View, search, and export Airtable data | ✅ Working | Airtable |
-| **Google Maps Scraper** | Extract addresses from Google Maps lists | ✅ Working | File I/O |
-| **Call Log Analyzer** | Analyze RingCentral call logs (90+ seconds) | ✅ Working | Supabase, Zapier |
-| **Property Enrichment** | Enrich addresses with ATTOM property data | ✅ Working | Airtable, File I/O |
+| **Google Maps Agent** | Extract addresses from Google Maps lists | ✅ Working | Airtable, File I/O |
+| **RoofMaxx Data Agent** | Conversational business intelligence | ✅ Working | Supabase, Analytics |
+
+## 🤖 How Agents Work
+
+### Agent Architecture
+
+LocalBase agents follow a **professional, standardized architecture** built on the `BaseAgent` interface:
+
+```python
+from agents.base_agent import BaseAgent, AgentResult, AgentError
+
+class MyAgent(BaseAgent):
+    VERSION = "1.0.0"
+    
+    def __init__(self, config, services=None):
+        super().__init__(config, services)
+        # Agent-specific initialization
+    
+    def validate_input(self, **kwargs) -> bool:
+        # Validate input parameters
+        pass
+    
+    def execute(self, **kwargs) -> Dict[str, Any]:
+        # Main agent logic
+        pass
+```
+
+### Key Agent Features
+
+- **🔧 Dependency Injection**: Agents receive services through constructor injection
+- **✅ Input Validation**: Built-in parameter validation with clear error messages
+- **📊 Standardized Results**: All agents return `AgentResult` objects
+- **🛡️ Error Handling**: Professional exception handling with error codes
+- **📝 Logging**: Automatic logging with agent-specific loggers
+- **📈 Monitoring**: Built-in status and metadata tracking
+
+### Agent Usage Patterns
+
+#### 1. Programmatic Agent Execution
+
+```python
+from agents.canvassing_list_generator.agent import GoogleMapsAgent
+from src.config import config
+
+# Get required services
+airtable_service = config.get_service("airtable")
+
+# Initialize agent with services
+agent = GoogleMapsAgent(
+    config={"timeout": 30},
+    services={"airtable": airtable_service}
+)
+
+# Execute agent
+result = agent.execute(
+    list_url="https://maps.app.goo.gl/qr1Y6sFwU58MU4Sm7",
+    headless=True,
+    save_to_airtable=True,
+    business_name="Winterset - Longview"
+)
+
+if result.success:
+    print(f"✅ Extracted {len(result.data)} addresses")
+    print(f"📊 Saved to Airtable: {result.metadata.get('airtable_records', 0)} records")
+else:
+    print(f"❌ Error: {result.error}")
+```
+
+#### 2. Conversational Agent Interface
+
+```python
+from agents.roofmaxx_data_agent.agent import RoofMaxxDataAgent
+
+# Initialize conversational agent
+agent = RoofMaxxDataAgent()
+
+# Chat with your business data
+response = agent.chat("Show me deals by source for this month")
+print(response)
+
+# Generate reports
+agent.chat("Create a pie chart of deal sources")
+# Saves report to data/outputs/reports/
+```
+
+#### 3. Agent Status & Monitoring
+
+```python
+# Check agent status
+status = agent.get_status()
+print(f"Agent: {status['metadata']['agent_name']}")
+print(f"Version: {status['metadata']['version']}")
+print(f"Services: {status['services']}")
+print(f"Config: {status['config_keys']}")
+```
+
+### Agent-Specific Examples
+
+#### Google Maps Agent
+
+**Purpose**: Extract addresses from Google Maps lists for canvassing campaigns
+
+```python
+from agents.canvassing_list_generator.agent import GoogleMapsAgent
+
+agent = GoogleMapsAgent(config={}, services={"airtable": airtable_service})
+
+# Extract addresses from a Google Maps list
+result = agent.execute(
+    list_url="https://maps.app.goo.gl/qr1Y6sFwU58MU4Sm7",
+    headless=True,
+    timeout=30,
+    save_to_airtable=True,
+    business_name="Winterset - Longview"
+)
+
+# Result contains:
+# - success: bool
+# - data: List of extracted addresses
+# - metadata: Processing stats, Airtable records created
+# - error: Error message if failed
+```
+
+**Features**:
+- 🕷️ **Web Scraping**: Uses Selenium for reliable address extraction
+- 📍 **Address Processing**: Cleans and validates extracted addresses
+- 🗄️ **Airtable Integration**: Automatically saves to CRM
+- 📊 **Progress Tracking**: Real-time extraction progress
+- 🔄 **Error Recovery**: Handles network issues and timeouts
+
+#### RoofMaxx Data Agent
+
+**Purpose**: Conversational business intelligence for deal analysis
+
+```python
+from agents.roofmaxx_data_agent.agent import RoofMaxxDataAgent
+
+agent = RoofMaxxDataAgent()
+
+# Natural language queries
+agent.chat("What's my total revenue this month?")
+agent.chat("Show me deals by city")
+agent.chat("Which sources are performing best?")
+
+# Generate visual reports
+agent.chat("Create a pie chart of deal sources")
+agent.chat("Show me a weekly revenue trend")
+```
+
+**Features**:
+- 💬 **Natural Language**: Chat with your data using plain English
+- 📊 **Visual Reports**: Automatic chart and graph generation
+- 📈 **Real-time Analytics**: Live data from Supabase
+- 🎯 **Business Insights**: Performance metrics and trends
+- 📄 **Report Export**: HTML dashboards and charts
+
+#### Property Enrichment Service
+
+**Purpose**: Enrich addresses with property data from ATTOM
+
+```python
+from src.services.attom import AttomService
+
+# Initialize ATTOM service
+attom_service = AttomService(config={"api_key": "your_key"})
+
+# Enrich addresses with property data
+enriched_data = attom_service.enrich_addresses(
+    addresses=["123 Main St, City, State"],
+    include_valuation=True,
+    include_characteristics=True
+)
+
+# Enriched data includes:
+# - Property valuations
+# - Square footage
+# - Year built
+# - Property characteristics
+# - Market data
+```
+
+### Agent Development Guide
+
+#### Creating a New Agent
+
+1. **Extend BaseAgent**:
+```python
+from agents.base_agent import BaseAgent, AgentResult, AgentError
+
+class MyNewAgent(BaseAgent):
+    VERSION = "1.0.0"
+    
+    def __init__(self, config, services=None):
+        super().__init__(config, services)
+        # Validate required services
+        if 'required_service' not in self.services:
+            raise AgentError("Missing required service", "missing_service")
+    
+    def validate_input(self, **kwargs) -> bool:
+        if 'required_param' not in kwargs:
+            raise ValueError("'required_param' is required")
+        return True
+    
+    def execute(self, **kwargs) -> Dict[str, Any]:
+        self.validate_input(**kwargs)
+        
+        try:
+            # Agent logic here
+            result_data = self._process_data(kwargs['required_param'])
+            
+            return AgentResult(
+                success=True,
+                data=result_data,
+                metadata={"processed_items": len(result_data)}
+            )
+        except Exception as e:
+            return AgentResult(
+                success=False,
+                error=str(e),
+                metadata={"error_type": type(e).__name__}
+            )
+```
+
+2. **Add to Agent Registry**:
+```python
+# In agents/__init__.py
+from .my_new_agent import MyNewAgent
+
+__all__ = ['MyNewAgent']
+```
+
+3. **Create Run Script**:
+```python
+# agents/my_new_agent/run.py
+from .agent import MyNewAgent
+from src.config import config
+
+def main():
+    # Get services
+    services = {
+        "airtable": config.get_service("airtable"),
+        "supabase": config.get_service("supabase")
+    }
+    
+    # Initialize agent
+    agent = MyNewAgent(config={}, services=services)
+    
+    # Execute
+    result = agent.execute(required_param="value")
+    print(f"Result: {result.to_dict()}")
+
+if __name__ == "__main__":
+    main()
+```
+
+#### Agent Testing
+
+```python
+import unittest
+from agents.my_new_agent import MyNewAgent
+
+class TestMyNewAgent(unittest.TestCase):
+    def setUp(self):
+        self.agent = MyNewAgent(config={}, services={})
+    
+    def test_validate_input(self):
+        # Test valid input
+        self.assertTrue(self.agent.validate_input(required_param="test"))
+        
+        # Test invalid input
+        with self.assertRaises(ValueError):
+            self.agent.validate_input()
+    
+    def test_execute(self):
+        result = self.agent.execute(required_param="test")
+        self.assertIsInstance(result, AgentResult)
+        self.assertTrue(result.success)
+```
 
 ## 🚀 Quick Start
 
@@ -53,7 +328,27 @@ ROOFMAXX_CONNECT_DEALER_ID=your_dealer_id
 ATTOM_API_KEY=your_api_key
 ```
 
-### 3. Run Tools & Demos
+### 3. Run Agents
+
+#### Google Maps Agent
+```bash
+# Extract addresses from Google Maps list
+python3 agents/canvassing_list_generator/run.py
+```
+
+#### RoofMaxx Data Agent
+```bash
+# Start conversational business intelligence
+python3 agents/roofmaxx_data_agent/run.py
+```
+
+#### Property Enrichment Service
+```bash
+# Enrich addresses with property data
+python3 src/services/attom/run_enrichment.py addresses.csv
+```
+
+### 4. Run Tools & Demos
 ```bash
 # View Airtable data
 python3 tools/airtable_viewer.py
@@ -63,9 +358,6 @@ python3 src/services/roofmaxxconnect/demo.py
 
 # Test service integrations
 python3 src/services/roofmaxxconnect/test_service.py
-
-# Property enrichment
-python3 src/services/attom/run_enrichment.py addresses.csv
 ```
 
 ## 🏗️ Architecture
@@ -74,9 +366,16 @@ python3 src/services/attom/run_enrichment.py addresses.csv
 
 ```
 localbase/
-├── agents/                    # AI MCP agents
-│   ├── base_agent.py         # Base agent interface
-│   └── canvassing_list_generator/  # Google Maps & address agents
+├── agents/                    # 🤖 AI MCP agents
+│   ├── base_agent.py         # Base agent interface & standards
+│   ├── canvassing_list_generator/  # Google Maps address extraction
+│   │   ├── agent.py          # Main agent implementation
+│   │   ├── run.py            # CLI execution script
+│   │   └── README.md         # Agent-specific documentation
+│   └── roofmaxx_data_agent/  # Conversational business intelligence
+│       ├── agent.py          # Main agent implementation
+│       ├── run.py            # CLI execution script
+│       └── README.md         # Agent-specific documentation
 ├── src/
 │   ├── services/             # 🔥 External API service integrations
 │   │   ├── airtable/        # CRM & lead management  
@@ -222,6 +521,13 @@ service = RoofmaxxService(config)
 - Implemented service registry for dependency injection
 - Added comprehensive error handling and logging
 - Enhanced type safety across all service interfaces
+
+### 🤖 Agent Standardization
+- **BaseAgent Interface**: All agents now follow standardized patterns
+- **Dependency Injection**: Clean service integration
+- **Error Handling**: Professional exception management
+- **Monitoring**: Built-in status and metadata tracking
+- **Documentation**: Comprehensive agent usage guides
 
 ---
 
