@@ -9,14 +9,14 @@ import os
 # Add the parent directory to the path so we can import the scraper
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from google_map_list_scraper.scraper import GoogleMapsListScraper
+from scraper import GoogleMapsListScraper
 
 
 def main():
     """Run the scraper with the specific Google Maps list URL."""
     
     # Your specific Google Maps list URL - Winterset-Longview (1,192 places)
-    list_url = "https://maps.app.goo.gl/bT85WjFbSkNDmRYH9"
+    list_url = "https://maps.app.goo.gl/DXiugB2f9WZfu3Y4A"
     
     # Create scraper instance (set headless=False to see the browser in action)
     scraper = GoogleMapsListScraper(headless=False, timeout=15)

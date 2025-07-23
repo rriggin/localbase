@@ -6,13 +6,14 @@ Transforms the simple addresses.csv into the format expected by the gist
 
 import csv
 import re
+import sys
 from datetime import datetime
 from typing import Dict, Optional
 
 def parse_address(full_address: str) -> Dict[str, str]:
     """
     Parse a full address into components.
-    Expected format: "1234 SW Street Name, Lee's Summit, MO 64081"
+    Expected format: "1234 SW Street Name, City, State ZIP"
     """
     # Clean up escape characters
     address = full_address.replace('\\,', ',').replace('\\"', '"').replace('\\', '').strip()
@@ -43,10 +44,43 @@ def parse_address(full_address: str) -> Dict[str, str]:
         if state_zip_match:
             result['state'] = state_zip_match.group(1)
             result['zip_code'] = state_zip_match.group(2)
+    elif len(parts) == 2:
+        # Try to handle "street_address, city state zip" format
+        result['street_address'] = parts[0]
+        city_state_zip = parts[1].strip()
+        
+        # Look for pattern: "City ST ZIP"
+        city_state_zip_match = re.match(r'^(.+?)\s+([A-Z]{2})\s+(\d{5}(?:-\d{4})?).*$', city_state_zip)
+        if city_state_zip_match:
+            result['city'] = city_state_zip_match.group(1).strip()
+            result['state'] = city_state_zip_match.group(2)
+            result['zip_code'] = city_state_zip_match.group(3)
     
     return result
 
-def format_addresses_for_gist():
+def get_list_title_from_addresses():
+    """Extract list title from the addresses.csv source field."""
+    input_file = 'data/addresses.csv'
+    
+    try:
+        with open(input_file, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                source = row.get('source', '')
+                if source and 'Google Maps' in source:
+                    # Try to extract list title from source
+                    # Format might be "Google Maps Agent - List Title"
+                    if ' - ' in source:
+                        return source.split(' - ', 1)[1]
+                    else:
+                        return "Google Maps List"
+                break
+    except:
+        pass
+    
+    return "Google Maps List"
+
+def format_addresses_for_gist(list_title: str = None):
     """
     Read addresses.csv and format it for gist update
     """
@@ -56,6 +90,10 @@ def format_addresses_for_gist():
     
     input_file = 'data/addresses.csv'
     output_file = 'data/addresses_formatted_for_gist.csv'
+    
+    # Get list title if not provided
+    if not list_title:
+        list_title = get_list_title_from_addresses()
     
     # Required headers for gist format
     headers = [
@@ -82,14 +120,14 @@ def format_addresses_for_gist():
             
             # Create the formatted row
             formatted_row = {
-                'name': '',  # Name field is empty in our data
+                'name': row.get('name', ''),  # Use name from CSV if available
                 'address': address_parts['full_address'],
                 'street_address': address_parts['street_address'],
                 'city': address_parts['city'],
                 'state': address_parts['state'],
                 'zip_code': address_parts['zip_code'],
                 'full_address': address_parts['full_address'],
-                'source': 'Google Maps List Scraper - Winterset Longview',
+                'source': f'Google Maps List Scraper - {list_title}',
                 'import_date': import_date,
                 'import_time': import_time
             }
@@ -98,6 +136,7 @@ def format_addresses_for_gist():
             addresses_processed += 1
     
     print(f"Successfully formatted {addresses_processed} addresses")
+    print(f"List title: {list_title}")
     print(f"Output saved to: {output_file}")
     
     # Show first few rows as sample
@@ -110,4 +149,6 @@ def format_addresses_for_gist():
                 break
 
 if __name__ == "__main__":
-    format_addresses_for_gist() 
+    # Allow list title to be passed as command line argument
+    list_title = sys.argv[1] if len(sys.argv) > 1 else None
+    format_addresses_for_gist(list_title) 

@@ -170,10 +170,10 @@ def main():
     """Main function - Update the Google Maps URL here!"""
     
     # 🔥 CHANGE THIS URL FOR YOUR NEW GOOGLE MAPS LIST 🔥
-    new_google_maps_url = "https://www.google.com/maps/@38.9013081,-94.4328395,1779m/data=!3m1!1e3!4m6!1m2!10m1!1e1!11m2!2s0CZ2l33STKGzwfM2FE_Ayg!3e3?authuser=1&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D"
+    new_google_maps_url = "https://maps.app.goo.gl/DXiugB2f9WZfu3Y4A"
     
     # Optional: Give your list a name for tracking
-    list_name = "Correct Google Maps List - Kansas City Area"
+    list_name = "Shawnee 1 - Kansas City Area"
     
     # Validation
     valid_prefixes = ["https://www.google.com/maps/", "https://maps.app.goo.gl/", "https://goo.gl/maps/"]

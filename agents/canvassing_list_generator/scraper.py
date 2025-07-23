@@ -131,6 +131,14 @@ class GoogleMapsListScraper:
                 # Scroll to load more content
                 self._perform_comprehensive_scrolling()
                 
+                # For the first load, try enhanced scrolling method for large lists
+                if reload_attempt == 0:
+                    # Try the enhanced scrolling method first
+                    enhanced_addresses = self._scrape_with_scrolling()
+                    if len(enhanced_addresses) > 100:
+                        self.logger.info(f"Enhanced scrolling found {len(enhanced_addresses)} addresses - using this method")
+                        return enhanced_addresses
+                
                 # Extract addresses from this page load using enhanced method
                 raw_addresses = enhanced_address_extraction(self.driver)
                 
@@ -170,6 +178,54 @@ class GoogleMapsListScraper:
         except Exception as e:
             self.logger.error(f"Error scraping addresses: {str(e)}")
             raise
+    
+    def get_list_title(self, url: str) -> str:
+        """
+        Extract the title/name of the Google Maps list.
+        
+        Args:
+            url: The Google Maps list URL
+            
+        Returns:
+            The list title, or "Google Maps List" if not found
+        """
+        try:
+            self.driver.get(url)
+            time.sleep(3)  # Wait for page to load
+            
+            # Try multiple selectors for the list title
+            title_selectors = [
+                "h1[data-attrid='title']",
+                "h1",
+                "[data-attrid='title']",
+                ".fontHeadlineLarge",
+                ".fontHeadlineMedium",
+                "title"
+            ]
+            
+            for selector in title_selectors:
+                try:
+                    element = self.driver.find_element(By.CSS_SELECTOR, selector)
+                    title = element.text.strip()
+                    if title and len(title) > 0:
+                        self.logger.info(f"Found list title: {title}")
+                        return title
+                except NoSuchElementException:
+                    continue
+            
+            # Fallback: try to get from page title
+            try:
+                page_title = self.driver.title
+                if page_title and "Google Maps" not in page_title:
+                    return page_title
+            except:
+                pass
+                
+            return "Google Maps List"
+            
+        except Exception as e:
+            self.logger.warning(f"Could not extract list title: {e}")
+            return "Google Maps List"
     
     def _perform_comprehensive_scrolling(self):
         """Perform comprehensive scrolling to load more content."""
@@ -610,23 +666,23 @@ def extract_addresses_from_javascript(page_source):
     
     # Multiple regex patterns to extract address data from JavaScript
     patterns = [
-        # Pattern for addresses in quoted strings with full format
-        r'"([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)\s+[^"]*(?:Rd|Dr|St|Ave|Ct|Cir|Ter|Pl|Way|Ln|Blvd)[^"]*,\s*Lee\'s Summit,\s*MO\s*64081[^"]*)"',
+        # Pattern for complete addresses with street number, direction, street name, and street type
+        r'"([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W|North|South|East|West)?\s*[^,"]*(?:St|Street|Dr|Drive|Rd|Road|Ave|Avenue|Ct|Court|Cir|Circle|Ter|Terrace|Pl|Place|Way|Ln|Lane|Blvd|Boulevard)[^,"]*(?:,\s*[^,"]+)*(?:,\s*[A-Z]{2})?\s*(?:\d{5})?[^"]*)"',
         
         # Pattern for addresses in array format  
-        r'\["([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)\s+[^"]*(?:Rd|Dr|St|Ave|Ct|Cir|Ter|Pl|Way|Ln|Blvd)[^"]*)",\s*"Lee\'s Summit",\s*"MO",\s*"64081"',
+        r'\["([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)?\s*[^"]*(?:St|Street|Dr|Drive|Rd|Road|Ave|Avenue|Ct|Court|Cir|Circle|Ter|Terrace|Pl|Place|Way|Ln|Lane|Blvd|Boulevard)[^"]*)"',
         
         # Pattern for addresses with USA suffix
-        r'"([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)\s+[^"]*(?:Rd|Dr|St|Ave|Ct|Cir|Ter|Pl|Way|Ln|Blvd)[^"]*,\s*Lee\'s Summit,\s*MO\s*64081,\s*USA)"',
+        r'"([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)?\s*[^"]*(?:St|Street|Dr|Drive|Rd|Road|Ave|Avenue|Ct|Court|Cir|Circle|Ter|Terrace|Pl|Place|Way|Ln|Lane|Blvd|Boulevard)[^"]*,\s*[^"]*,\s*[A-Z]{2}\s*\d{5}[^"]*)"',
         
         # Pattern for addresses in title or name fields
-        r'(?:title|name|address)["\']\s*:\s*["\']([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)\s+[^"\']*(?:Rd|Dr|St|Ave|Ct|Cir|Ter|Pl|Way|Ln|Blvd)[^"\']*)["\']',
+        r'(?:title|name|address)["\']\s*:\s*["\']([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)?\s*[^"\']*(?:St|Street|Dr|Drive|Rd|Road|Ave|Avenue|Ct|Court|Cir|Circle|Ter|Terrace|Pl|Place|Way|Ln|Lane|Blvd|Boulevard)[^"\']*)["\']',
         
         # Pattern for addresses in JSON-like structures
-        r'(?:address|location)["\']\s*:\s*["\']([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)\s+[^"\']*(?:Rd|Dr|St|Ave|Ct|Cir|Ter|Pl|Way|Ln|Blvd)[^"\']*,\s*Lee\'s Summit,\s*MO\s*64081[^"\']*)["\']',
+        r'(?:address|location)["\']\s*:\s*["\']([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)?\s*[^"\']*(?:St|Street|Dr|Drive|Rd|Road|Ave|Avenue|Ct|Court|Cir|Circle|Ter|Terrace|Pl|Place|Way|Ln|Lane|Blvd|Boulevard)[^"\']*)["\']',
         
-        # Pattern for standalone street addresses (we'll append city/state)
-        r'"([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)\s+[^"]*(?:Rd|Dr|St|Ave|Ct|Cir|Ter|Pl|Way|Ln|Blvd)[^"]*)"[^0-9a-zA-Z]*(?=.*Lee|.*Summit|.*64081)',
+        # Pattern for standalone street addresses
+        r'"([0-9]+\s+(?:SW|NW|NE|SE|N|S|E|W)?\s*[^"]*(?:St|Street|Dr|Drive|Rd|Road|Ave|Avenue|Ct|Court|Cir|Circle|Ter|Terrace|Pl|Place|Way|Ln|Lane|Blvd|Boulevard)[^"]*)"',
     ]
     
     for pattern in patterns:
@@ -637,12 +693,7 @@ def extract_addresses_from_javascript(page_source):
             address = match.strip()
             
             # Clean up and validate the address
-            if len(address) > 10 and any(keyword in address.lower() for keyword in ['rd', 'dr', 'st', 'ave', 'ct', 'cir', 'ter', 'pl', 'way', 'ln', 'blvd']):
-                # Ensure it has Lee's Summit, MO 64081
-                if 'lee\'s summit' not in address.lower():
-                    if not any(suffix in address.lower() for suffix in [', mo', ', missouri']):
-                        address = f"{address}, Lee's Summit, MO 64081"
-                
+            if len(address) > 10 and any(keyword in address.lower() for keyword in ['rd', 'dr', 'st', 'ave', 'ct', 'cir', 'ter', 'pl', 'way', 'ln', 'blvd', 'street', 'drive', 'road', 'avenue', 'court', 'circle', 'terrace', 'place', 'lane', 'boulevard']):
                 # Remove any trailing commas or quotes
                 address = re.sub(r'[",\s]+$', '', address)
                 addresses.add(address)
@@ -659,9 +710,7 @@ def extract_addresses_from_javascript(page_source):
         logger.info(f"Array pattern found {len(matches)} matches")
         for match in matches:
             address = match.strip()
-            if len(address) > 10:
-                if 'lee\'s summit' not in address.lower():
-                    address = f"{address}, Lee's Summit, MO 64081"
+            if len(address) > 10 and any(keyword in address.lower() for keyword in ['rd', 'dr', 'st', 'ave', 'ct', 'cir', 'ter', 'pl', 'way', 'ln', 'blvd', 'street', 'drive', 'road', 'avenue', 'court', 'circle', 'terrace', 'place', 'lane', 'boulevard']):
                 addresses.add(address)
     
     logger.info(f"JavaScript extraction found {len(addresses)} unique addresses")
@@ -711,8 +760,9 @@ def extract_addresses_from_dom(driver):
                 try:
                     text = element.text.strip()
                     if text and len(text) > 5:
-                        # Check if it looks like an address
-                        if any(keyword in text.lower() for keyword in ['rd', 'dr', 'st', 'ave', 'ct', 'cir', 'ter', 'pl', 'way', 'ln', 'blvd']) or 'lee\'s summit' in text.lower():
+                        # Check if it looks like an address (has street number and street type)
+                        if (re.match(r'^\d+\s+', text) and 
+                            any(keyword in text.lower() for keyword in ['rd', 'dr', 'st', 'ave', 'ct', 'cir', 'ter', 'pl', 'way', 'ln', 'blvd', 'street', 'drive', 'road', 'avenue', 'court', 'circle', 'terrace', 'place', 'lane', 'boulevard'])):
                             addresses.add(text)
                 except:
                     continue

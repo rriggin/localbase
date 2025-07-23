@@ -1,167 +1,1097 @@
 name,address,street_address,city,state,zip_code,full_address,source,import_date,import_time
-,"2325 W Country Club Dr, Sedalia, MO 65301",2325 W Country Club Dr,Sedalia,MO,65301,"2325 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2195 W Country Club Dr, Sedalia, MO 65301",2195 W Country Club Dr,Sedalia,MO,65301,"2195 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2250 W Country Club Dr, Sedalia, MO 65301",2250 W Country Club Dr,Sedalia,MO,65301,"2250 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2330 W Country Club Dr, Sedalia, MO 65301",2330 W Country Club Dr,Sedalia,MO,65301,"2330 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1550 Fairway Dr, Sedalia, MO 65301",1550 Fairway Dr,Sedalia,MO,65301,"1550 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4240 Green Cir, Sedalia, MO 65301",4240 Green Cir,Sedalia,MO,65301,"4240 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4200 Eagle Dr, Sedalia, MO 65301",4200 Eagle Dr,Sedalia,MO,65301,"4200 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2265 W Country Club Dr, Sedalia, MO 65301",2265 W Country Club Dr,Sedalia,MO,65301,"2265 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4115 Par 5 Dr, Sedalia, MO 65301",4115 Par 5 Dr,Sedalia,MO,65301,"4115 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4024 Par 4 Dr, Sedalia, MO 65301",4024 Par 4 Dr,Sedalia,MO,65301,"4024 Par 4 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4245 Par 5 Dr, Sedalia, MO 65301",4245 Par 5 Dr,Sedalia,MO,65301,"4245 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4079 Par 5 Dr, Sedalia, MO 65301",4079 Par 5 Dr,Sedalia,MO,65301,"4079 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2225 W Country Club Dr, Sedalia, MO 65301",2225 W Country Club Dr,Sedalia,MO,65301,"2225 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2505 James Ln, Sedalia, MO 65301",2505 James Ln,Sedalia,MO,65301,"2505 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2655 James Ln, Sedalia, MO 65301",2655 James Ln,Sedalia,MO,65301,"2655 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1530 N Hedge Apple Dr, Sedalia, MO 65301",1530 N Hedge Apple Dr,Sedalia,MO,65301,"1530 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2555 James Ln, Sedalia, MO 65301",2555 James Ln,Sedalia,MO,65301,"2555 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1545 Fairway Dr, Sedalia, MO 65301",1545 Fairway Dr,Sedalia,MO,65301,"1545 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4065 Par 5 Dr, Sedalia, MO 65301",4065 Par 5 Dr,Sedalia,MO,65301,"4065 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2370 W Country Club Dr, Sedalia, MO 65301",2370 W Country Club Dr,Sedalia,MO,65301,"2370 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4035 Par 4 Dr, Sedalia, MO 65301",4035 Par 4 Dr,Sedalia,MO,65301,"4035 Par 4 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2150 W Country Club Dr, Sedalia, MO 65301",2150 W Country Club Dr,Sedalia,MO,65301,"2150 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2630 James Ln, Sedalia, MO 65301",2630 James Ln,Sedalia,MO,65301,"2630 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4180 Green Cir, Sedalia, MO 65301",4180 Green Cir,Sedalia,MO,65301,"4180 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1575 Par 3 Dr, Sedalia, MO 65301",1575 Par 3 Dr,Sedalia,MO,65301,"1575 Par 3 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4250 Eagle Dr, Sedalia, MO 65301",4250 Eagle Dr,Sedalia,MO,65301,"4250 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2170 W Country Club Dr, Sedalia, MO 65301",2170 W Country Club Dr,Sedalia,MO,65301,"2170 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2145 W Country Club Dr, Sedalia, MO 65301",2145 W Country Club Dr,Sedalia,MO,65301,"2145 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2640 James Ln, Sedalia, MO 65301",2640 James Ln,Sedalia,MO,65301,"2640 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1560 Fairway Dr, Sedalia, MO 65301",1560 Fairway Dr,Sedalia,MO,65301,"1560 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4251 Eagle Dr, Sedalia, MO 65301",4251 Eagle Dr,Sedalia,MO,65301,"4251 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4305 Par 5 Dr, Sedalia, MO 65301",4305 Par 5 Dr,Sedalia,MO,65301,"4305 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1555 Shady Ln, Sedalia, MO 65301",1555 Shady Ln,Sedalia,MO,65301,"1555 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2355 W Country Club Dr, Sedalia, MO 65301",2355 W Country Club Dr,Sedalia,MO,65301,"2355 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4040 Par 4 Dr, Sedalia, MO 65301",4040 Par 4 Dr,Sedalia,MO,65301,"4040 Par 4 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4060 Par 5 Dr, Sedalia, MO 65301",4060 Par 5 Dr,Sedalia,MO,65301,"4060 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2240 W Country Club Dr, Sedalia, MO 65301",2240 W Country Club Dr,Sedalia,MO,65301,"2240 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2520 James Ln, Sedalia, MO 65301",2520 James Ln,Sedalia,MO,65301,"2520 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4099 Par 5 Dr, Sedalia, MO 65301",4099 Par 5 Dr,Sedalia,MO,65301,"4099 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4089 Par 5 Dr, Sedalia, MO 65301",4089 Par 5 Dr,Sedalia,MO,65301,"4089 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4025 Par 5 Dr, Sedalia, MO 65301",4025 Par 5 Dr,Sedalia,MO,65301,"4025 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2535 James Ln, Sedalia, MO 65301",2535 James Ln,Sedalia,MO,65301,"2535 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4080 Par 5 Dr, Sedalia, MO 65301",4080 Par 5 Dr,Sedalia,MO,65301,"4080 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1520 Fairway Dr, Sedalia, MO 65301",1520 Fairway Dr,Sedalia,MO,65301,"1520 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4075 Par 5 Dr, Sedalia, MO 65301",4075 Par 5 Dr,Sedalia,MO,65301,"4075 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1525 Fairway Dr, Sedalia, MO 65301",1525 Fairway Dr,Sedalia,MO,65301,"1525 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2710 James Ln, Sedalia, MO 65301",2710 James Ln,Sedalia,MO,65301,"2710 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1550 N Hedge Apple Dr, Sedalia, MO 65301",1550 N Hedge Apple Dr,Sedalia,MO,65301,"1550 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2320 W Country Club Dr, Sedalia, MO 65301",2320 W Country Club Dr,Sedalia,MO,65301,"2320 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2315 W Country Club Dr, Sedalia, MO 65301",2315 W Country Club Dr,Sedalia,MO,65301,"2315 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2275 W Country Club Dr, Sedalia, MO 65301",2275 W Country Club Dr,Sedalia,MO,65301,"2275 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2260 W Country Club Dr, Sedalia, MO 65301",2260 W Country Club Dr,Sedalia,MO,65301,"2260 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1553 N Hedge Apple Dr, Sedalia, MO 65301",1553 N Hedge Apple Dr,Sedalia,MO,65301,"1553 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1530 Fairway Dr, Sedalia, MO 65301",1530 Fairway Dr,Sedalia,MO,65301,"1530 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1535 Fairway Dr, Sedalia, MO 65301",1535 Fairway Dr,Sedalia,MO,65301,"1535 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2525 James Ln, Sedalia, MO 65301",2525 James Ln,Sedalia,MO,65301,"2525 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1495 Shady Ln, Sedalia, MO 65301",1495 Shady Ln,Sedalia,MO,65301,"1495 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4225 Par 5 Dr, Sedalia, MO 65301",4225 Par 5 Dr,Sedalia,MO,65301,"4225 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2530 James Ln, Sedalia, MO 65301",2530 James Ln,Sedalia,MO,65301,"2530 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2665 James Ln, Sedalia, MO 65301",2665 James Ln,Sedalia,MO,65301,"2665 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4030 Par 4 Dr, Sedalia, MO 65301",4030 Par 4 Dr,Sedalia,MO,65301,"4030 Par 4 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2185 W Country Club Dr, Sedalia, MO 65301",2185 W Country Club Dr,Sedalia,MO,65301,"2185 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2350 W Country Club Dr, Sedalia, MO 65301",2350 W Country Club Dr,Sedalia,MO,65301,"2350 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4235 Green Cir, Sedalia, MO 65301",4235 Green Cir,Sedalia,MO,65301,"4235 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2685 James Ln, Sedalia, MO 65301",2685 James Ln,Sedalia,MO,65301,"2685 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2380 W Country Club Dr, Sedalia, MO 65301",2380 W Country Club Dr,Sedalia,MO,65301,"2380 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1585 Par 3 Dr, Sedalia, MO 65301",1585 Par 3 Dr,Sedalia,MO,65301,"1585 Par 3 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1465 Shady Ln, Sedalia, MO 65301",1465 Shady Ln,Sedalia,MO,65301,"1465 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4226 Par 5 Dr, Sedalia, MO 65301",4226 Par 5 Dr,Sedalia,MO,65301,"4226 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2600 James Ln, Sedalia, MO 65301",2600 James Ln,Sedalia,MO,65301,"2600 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2680 James Ln, Sedalia, MO 65301",2680 James Ln,Sedalia,MO,65301,"2680 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2385 W Country Club Dr, Sedalia, MO 65301",2385 W Country Club Dr,Sedalia,MO,65301,"2385 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4190 Green Cir, Sedalia, MO 65301",4190 Green Cir,Sedalia,MO,65301,"4190 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2345 W Country Club Dr, Sedalia, MO 65301",2345 W Country Club Dr,Sedalia,MO,65301,"2345 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2230 W Country Club Dr, Sedalia, MO 65301",2230 W Country Club Dr,Sedalia,MO,65301,"2230 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4176 Par 5 Dr, Sedalia, MO 65301",4176 Par 5 Dr,Sedalia,MO,65301,"4176 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2210 W Country Club Dr, Sedalia, MO 65301",2210 W Country Club Dr,Sedalia,MO,65301,"2210 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2375 W Country Club Dr, Sedalia, MO 65301",2375 W Country Club Dr,Sedalia,MO,65301,"2375 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1595 Fairway Dr, Sedalia, MO 65301",1595 Fairway Dr,Sedalia,MO,65301,"1595 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1525 Shady Ln, Sedalia, MO 65301",1525 Shady Ln,Sedalia,MO,65301,"1525 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2515 James Ln, Sedalia, MO 65301",2515 James Ln,Sedalia,MO,65301,"2515 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2585 James Ln, Sedalia, MO 65301",2585 James Ln,Sedalia,MO,65301,"2585 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2575 James Ln, Sedalia, MO 65301",2575 James Ln,Sedalia,MO,65301,"2575 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2165 W Country Club Dr, Sedalia, MO 65301",2165 W Country Club Dr,Sedalia,MO,65301,"2165 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2760 James Ln, Sedalia, MO 65301",2760 James Ln,Sedalia,MO,65301,"2760 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1565 Fairway Dr, Sedalia, MO 65301",1565 Fairway Dr,Sedalia,MO,65301,"1565 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2590 James Ln, Sedalia, MO 65301",2590 James Ln,Sedalia,MO,65301,"2590 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2390 W Country Club Dr, Sedalia, MO 65301",2390 W Country Club Dr,Sedalia,MO,65301,"2390 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2110 W Country Club Dr, Sedalia, MO 65301",2110 W Country Club Dr,Sedalia,MO,65301,"2110 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4275 Eagle Dr, Sedalia, MO 65301",4275 Eagle Dr,Sedalia,MO,65301,"4275 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4266 Par 5 Dr, Sedalia, MO 65301",4266 Par 5 Dr,Sedalia,MO,65301,"4266 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1575 Fairway Dr, Sedalia, MO 65301",1575 Fairway Dr,Sedalia,MO,65301,"1575 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1520 N Hedge Apple Dr, Sedalia, MO 65301",1520 N Hedge Apple Dr,Sedalia,MO,65301,"1520 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2155 W Country Club Dr, Sedalia, MO 65301",2155 W Country Club Dr,Sedalia,MO,65301,"2155 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2601 James Ln, Sedalia, MO 65301",2601 James Ln,Sedalia,MO,65301,"2601 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4083 Par 5 Dr, Sedalia, MO 65301",4083 Par 5 Dr,Sedalia,MO,65301,"4083 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4276 Eagle Dr, Sedalia, MO 65301",4276 Eagle Dr,Sedalia,MO,65301,"4276 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2650 James Ln, Sedalia, MO 65301",2650 James Ln,Sedalia,MO,65301,"2650 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2750 James Ln, Sedalia, MO 65301",2750 James Ln,Sedalia,MO,65301,"2750 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2300 W Country Club Dr, Sedalia, MO 65301",2300 W Country Club Dr,Sedalia,MO,65301,"2300 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1513 Fairway Dr, Sedalia, MO 65301",1513 Fairway Dr,Sedalia,MO,65301,"1513 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2675 James Ln, Sedalia, MO 65301",2675 James Ln,Sedalia,MO,65301,"2675 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1533 N Hedge Apple Dr, Sedalia, MO 65301",1533 N Hedge Apple Dr,Sedalia,MO,65301,"1533 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1540 Fairway Dr, Sedalia, MO 65301",1540 Fairway Dr,Sedalia,MO,65301,"1540 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2130 W Country Club Dr, Sedalia, MO 65301",2130 W Country Club Dr,Sedalia,MO,65301,"2130 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2572 James Ln, Sedalia, MO 65301",2572 James Ln,Sedalia,MO,65301,"2572 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4265 Par 5 Dr, Sedalia, MO 65301",4265 Par 5 Dr,Sedalia,MO,65301,"4265 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2305 W Country Club Dr, Sedalia, MO 65301",2305 W Country Club Dr,Sedalia,MO,65301,"2305 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2582 James Ln, Sedalia, MO 65301",2582 James Ln,Sedalia,MO,65301,"2582 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2205 W Country Club Dr, Sedalia, MO 65301",2205 W Country Club Dr,Sedalia,MO,65301,"2205 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4045 Par 5 Dr, Sedalia, MO 65301",4045 Par 5 Dr,Sedalia,MO,65301,"4045 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4125 Par 5 Dr, Sedalia, MO 65301",4125 Par 5 Dr,Sedalia,MO,65301,"4125 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2120 W Country Club Dr, Sedalia, MO 65301",2120 W Country Club Dr,Sedalia,MO,65301,"2120 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1513 N Hedge Apple Dr, Sedalia, MO 65301",1513 N Hedge Apple Dr,Sedalia,MO,65301,"1513 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4246 Par 5 Dr, Sedalia, MO 65301",4246 Par 5 Dr,Sedalia,MO,65301,"4246 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2565 James Ln, Sedalia, MO 65301",2565 James Ln,Sedalia,MO,65301,"2565 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4180 Eagle Dr, Sedalia, MO 65301",4180 Eagle Dr,Sedalia,MO,65301,"4180 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1570 N Hedge Apple Dr, Sedalia, MO 65301",1570 N Hedge Apple Dr,Sedalia,MO,65301,"1570 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2670 James Ln, Sedalia, MO 65301",2670 James Ln,Sedalia,MO,65301,"2670 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2620 James Ln, Sedalia, MO 65301",2620 James Ln,Sedalia,MO,65301,"2620 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4055 Par 5 Dr, Sedalia, MO 65301",4055 Par 5 Dr,Sedalia,MO,65301,"4055 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2602 James Ln, Sedalia, MO 65301",2602 James Ln,Sedalia,MO,65301,"2602 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1445 Shady Ln, Sedalia, MO 65301",1445 Shady Ln,Sedalia,MO,65301,"1445 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4080 Par 4 Dr, Sedalia, MO 65301",4080 Par 4 Dr,Sedalia,MO,65301,"4080 Par 4 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2335 W Country Club Dr, Sedalia, MO 65301",2335 W Country Club Dr,Sedalia,MO,65301,"2335 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2400 W Country Club Dr, Sedalia, MO 65301",2400 W Country Club Dr,Sedalia,MO,65301,"2400 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4295 Par 5 Dr, Sedalia, MO 65301",4295 Par 5 Dr,Sedalia,MO,65301,"4295 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2290 W Country Club Dr, Sedalia, MO 65301",2290 W Country Club Dr,Sedalia,MO,65301,"2290 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2580 James Ln, Sedalia, MO 65301",2580 James Ln,Sedalia,MO,65301,"2580 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4065 Par 4 Dr, Sedalia, MO 65301",4065 Par 4 Dr,Sedalia,MO,65301,"4065 Par 4 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2295 W Country Club Dr, Sedalia, MO 65301",2295 W Country Club Dr,Sedalia,MO,65301,"2295 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2140 W Country Club Dr, Sedalia, MO 65301",2140 W Country Club Dr,Sedalia,MO,65301,"2140 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2180 W Country Club Dr, Sedalia, MO 65301",2180 W Country Club Dr,Sedalia,MO,65301,"2180 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2603 James Ln, Sedalia, MO 65301",2603 James Ln,Sedalia,MO,65301,"2603 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2200 W Country Club Dr, Sedalia, MO 65301",2200 W Country Club Dr,Sedalia,MO,65301,"2200 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1475 Shady Ln, Sedalia, MO 65301",1475 Shady Ln,Sedalia,MO,65301,"1475 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2220 W Country Club Dr, Sedalia, MO 65301",2220 W Country Club Dr,Sedalia,MO,65301,"2220 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4220 Green Cir, Sedalia, MO 65301",4220 Green Cir,Sedalia,MO,65301,"4220 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2592 James Ln, Sedalia, MO 65301",2592 James Ln,Sedalia,MO,65301,"2592 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1585 Shady Ln, Sedalia, MO 65301",1585 Shady Ln,Sedalia,MO,65301,"1585 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2660 James Ln, Sedalia, MO 65301",2660 James Ln,Sedalia,MO,65301,"2660 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4050 Par 5 Dr, Sedalia, MO 65301",4050 Par 5 Dr,Sedalia,MO,65301,"4050 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4218 Eagle Dr, Sedalia, MO 65301",4218 Eagle Dr,Sedalia,MO,65301,"4218 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4210 Green Cir, Sedalia, MO 65301",4210 Green Cir,Sedalia,MO,65301,"4210 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4200 Green Cir, Sedalia, MO 65301",4200 Green Cir,Sedalia,MO,65301,"4200 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2190 W Country Club Dr, Sedalia, MO 65301",2190 W Country Club Dr,Sedalia,MO,65301,"2190 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2215 W Country Club Dr, Sedalia, MO 65301",2215 W Country Club Dr,Sedalia,MO,65301,"2215 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4035 Par 5 Dr, Sedalia, MO 65301",4035 Par 5 Dr,Sedalia,MO,65301,"4035 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1505 Shady Ln, Sedalia, MO 65301",1505 Shady Ln,Sedalia,MO,65301,"1505 Shady Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2175 W Country Club Dr, Sedalia, MO 65301",2175 W Country Club Dr,Sedalia,MO,65301,"2175 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1523 N Hedge Apple Dr, Sedalia, MO 65301",1523 N Hedge Apple Dr,Sedalia,MO,65301,"1523 N Hedge Apple Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4060 Par 4 Dr, Sedalia, MO 65301",4060 Par 4 Dr,Sedalia,MO,65301,"4060 Par 4 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2540 James Ln, Sedalia, MO 65301",2540 James Ln,Sedalia,MO,65301,"2540 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1585 Fairway Dr, Sedalia, MO 65301",1585 Fairway Dr,Sedalia,MO,65301,"1585 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"1555 Fairway Dr, Sedalia, MO 65301",1555 Fairway Dr,Sedalia,MO,65301,"1555 Fairway Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2245 W Country Club Dr, Sedalia, MO 65301",2245 W Country Club Dr,Sedalia,MO,65301,"2245 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2610 James Ln, Sedalia, MO 65301",2610 James Ln,Sedalia,MO,65301,"2610 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2310 W Country Club Dr, Sedalia, MO 65301",2310 W Country Club Dr,Sedalia,MO,65301,"2310 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2160 W Country Club Dr, Sedalia, MO 65301",2160 W Country Club Dr,Sedalia,MO,65301,"2160 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2690 James Ln, Sedalia, MO 65301",2690 James Ln,Sedalia,MO,65301,"2690 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4210 Eagle Dr, Sedalia, MO 65301",4210 Eagle Dr,Sedalia,MO,65301,"4210 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4230 Green Cir, Sedalia, MO 65301",4230 Green Cir,Sedalia,MO,65301,"4230 Green Cir, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4040 Par 5 Dr, Sedalia, MO 65301",4040 Par 5 Dr,Sedalia,MO,65301,"4040 Par 5 Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2700 James Ln, Sedalia, MO 65301",2700 James Ln,Sedalia,MO,65301,"2700 James Ln, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"4190 Eagle Dr, Sedalia, MO 65301",4190 Eagle Dr,Sedalia,MO,65301,"4190 Eagle Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
-,"2270 W Country Club Dr, Sedalia, MO 65301",2270 W Country Club Dr,Sedalia,MO,65301,"2270 W Country Club Dr, Sedalia, MO 65301",Google Maps List Scraper,2025-07-15,17:00:26
+,8534 Alden Ln\,8534 Alden Ln\,,,,8534 Alden Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8315 Acuff Ln, Lenexa, KS 66215\",8315 Acuff Ln,Lenexa,KS,66215,"8315 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8606 Hallet St, Lenexa, KS 66215\",8606 Hallet St,Lenexa,KS,66215,"8606 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8309 Acuff Ln, Lenexa, KS 66215\",8309 Acuff Ln,Lenexa,KS,66215,"8309 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8438 Hallet St, Lenexa, KS 66215\",8438 Hallet St,Lenexa,KS,66215,"8438 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8601 Greenwood Ln\,8601 Greenwood Ln\,,,,8601 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8638 Dice Ln\,8638 Dice Ln\,,,,8638 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8622 Greenway Ln, Lenexa, KS 66215\",8622 Greenway Ln,Lenexa,KS,66215,"8622 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,15002 W 84th Terrace\,15002 W 84th Terrace\,,,,15002 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14243 W 84th Terrace, Lenexa, KS 66215\",14243 W 84th Terrace,Lenexa,KS,66215,"14243 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8344 Mullen Rd\,8344 Mullen Rd\,,,,8344 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14630 W 83rd Terrace, Lenexa, KS 66215\",14630 W 83rd Terrace,Lenexa,KS,66215,"14630 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8349 Mullen Rd, Lenexa, KS 66215\",8349 Mullen Rd,Lenexa,KS,66215,"8349 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8434 Acuff Ln\,8434 Acuff Ln\,,,,8434 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8337 Hallet St, Lenexa, KS 66215\",8337 Hallet St,Lenexa,KS,66215,"8337 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8364 Alden St\,8364 Alden St\,,,,8364 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8421 Hallet St,8421 Hallet St,,,,8421 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8335 Hallet St\,8335 Hallet St\,,,,8335 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8527 Hallet St,8527 Hallet St,,,,8527 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8311 Mullen Rd, Lenexa, KS 66215\",8311 Mullen Rd,Lenexa,KS,66215,"8311 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8334 Greenwood Cir, Lenexa, KS 66215\",8334 Greenwood Cir,Lenexa,KS,66215,"8334 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8608 Hallet St, Lenexa, KS 66215\",8608 Hallet St,Lenexa,KS,66215,"8608 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8411 Acuff Ln, Lenexa, KS 66215\",8411 Acuff Ln,Lenexa,KS,66215,"8411 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14712 W 84th St\,14712 W 84th St\,,,,14712 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8530 Hallet St, Lenexa, KS 66215\",8530 Hallet St,Lenexa,KS,66215,"8530 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8013 Hallet St, Lenexa, KS 66215\",8013 Hallet St,Lenexa,KS,66215,"8013 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8348 Acuff Ln\,8348 Acuff Ln\,,,,8348 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8507 Hallet St,8507 Hallet St,,,,8507 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8212 Acuff Ln,8212 Acuff Ln,,,,8212 Acuff Ln,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8336 Oakview Cir, Lenexa, KS 66215\",8336 Oakview Cir,Lenexa,KS,66215,"8336 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14302 W 84th Terrace, Lenexa, KS 66215\",14302 W 84th Terrace,Lenexa,KS,66215,"14302 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14320 W 84th Terrace\,14320 W 84th Terrace\,,,,14320 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14719 W 84th St, Lenexa, KS 66215\",14719 W 84th St,Lenexa,KS,66215,"14719 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14219 W 84th Terrace, Lenexa, KS 66215\",14219 W 84th Terrace,Lenexa,KS,66215,"14219 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14638 W 85th Terrace, Lenexa, KS 66215\",14638 W 85th Terrace,Lenexa,KS,66215,"14638 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8429 Hallet St,8429 Hallet St,,,,8429 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14626 W 84th St, Lenexa, KS 66215\",14626 W 84th St,Lenexa,KS,66215,"14626 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8425 Constance St, Lenexa, KS 66215\",8425 Constance St,Lenexa,KS,66215,"8425 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8538 Alden St\,8538 Alden St\,,,,8538 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8602 Greenwood Ln\,8602 Greenwood Ln\,,,,8602 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8641 Alden St, Lenexa, KS 66215\",8641 Alden St,Lenexa,KS,66215,"8641 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8508 Hallet St, Lenexa, KS 66215\",8508 Hallet St,Lenexa,KS,66215,"8508 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8408 Acuff Ln\,8408 Acuff Ln\,,,,8408 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14636 W 86th St\,14636 W 86th St\,,,,14636 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14641 W 85th Terrace, Lenexa, KS 66215\",14641 W 85th Terrace,Lenexa,KS,66215,"14641 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8429 Hallet St, Lenexa, KS 66215\",8429 Hallet St,Lenexa,KS,66215,"8429 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14634 W 85th Terrace\,14634 W 85th Terrace\,,,,14634 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8619 Acuff Ln, Lenexa, KS 66215\",8619 Acuff Ln,Lenexa,KS,66215,"8619 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8318 Acuff Ln\,8318 Acuff Ln\,,,,8318 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8326 Greenwood Cir\,8326 Greenwood Cir\,,,,8326 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14612 W 86th St\,14612 W 86th St\,,,,14612 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14413 W 84th Terrace, Lenexa, KS 66215\",14413 W 84th Terrace,Lenexa,KS,66215,"14413 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8530 Darnell St\,8530 Darnell St\,,,,8530 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8519 Hallet St\,8519 Hallet St\,,,,8519 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8542 S Oakview Dr\,8542 S Oakview Dr\,,,,8542 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14617 W 84th St, Lenexa, KS 66215\",14617 W 84th St,Lenexa,KS,66215,"14617 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8404 Greenwood Cir\,8404 Greenwood Cir\,,,,8404 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14809 W 84th Terrace\,14809 W 84th Terrace\,,,,14809 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14315 W 84th Terrace\,14315 W 84th Terrace\,,,,14315 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8402 Mullen Rd\,8402 Mullen Rd\,,,,8402 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14816 W 84th St, Lenexa, KS 66215\",14816 W 84th St,Lenexa,KS,66215,"14816 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8634 S Oakview Dr\,8634 S Oakview Dr\,,,,8634 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8513 Constance St\,8513 Constance St\,,,,8513 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8413 Greenwood Cir\,8413 Greenwood Cir\,,,,8413 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14614 W 84th St, Lenexa, KS 66215\",14614 W 84th St,Lenexa,KS,66215,"14614 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8338 Mullen Rd, Lenexa, KS 66215\",8338 Mullen Rd,Lenexa,KS,66215,"8338 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14905 W 84th Terrace\,14905 W 84th Terrace\,,,,14905 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8512 Darnell St\,8512 Darnell St\,,,,8512 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8339 Acuff Ln\,8339 Acuff Ln\,,,,8339 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14626 W 85th Terrace, Lenexa, KS 66215\",14626 W 85th Terrace,Lenexa,KS,66215,"14626 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8349 Acuff Ln, Lenexa, KS 66215\",8349 Acuff Ln,Lenexa,KS,66215,"8349 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8334 Mullen Rd\,8334 Mullen Rd\,,,,8334 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8507 Darnell St\,8507 Darnell St\,,,,8507 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14512 W 86th St\,14512 W 86th St\,,,,14512 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14633 W 84th St, Lenexa, KS 66215\",14633 W 84th St,Lenexa,KS,66215,"14633 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14513 W 86th St, Lenexa, KS 66215\",14513 W 86th St,Lenexa,KS,66215,"14513 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"7934 Hallet St, Lenexa, KS 66215\",7934 Hallet St,Lenexa,KS,66215,"7934 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8325 Greenwood Cir, Lenexa, KS 66215\",8325 Greenwood Cir,Lenexa,KS,66215,"8325 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8436 Darnell St, Lenexa, KS 66215\",8436 Darnell St,Lenexa,KS,66215,"8436 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8525 Greenwood Ln\,8525 Greenwood Ln\,,,,8525 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8522 Hallet St\,8522 Hallet St\,,,,8522 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8315 Acuff Ln\,8315 Acuff Ln\,,,,8315 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14512 W 86th St, Lenexa, KS 66215\",14512 W 86th St,Lenexa,KS,66215,"14512 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8342 Greenwood Cir, Lenexa, KS 66215\",8342 Greenwood Cir,Lenexa,KS,66215,"8342 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8607 Dice Ln, Lenexa, KS 66215\",8607 Dice Ln,Lenexa,KS,66215,"8607 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8400 Greenwood Cir, Lenexa, KS 66215\",8400 Greenwood Cir,Lenexa,KS,66215,"8400 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14908 W 84th Terrace, Lenexa, KS 66215\",14908 W 84th Terrace,Lenexa,KS,66215,"14908 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14520 W 86th Terrace\,14520 W 86th Terrace\,,,,14520 W 86th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8610 Hallet St, Lenexa, KS 66215\",8610 Hallet St,Lenexa,KS,66215,"8610 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8303 Acuff Ln, Lenexa, KS 66215\",8303 Acuff Ln,Lenexa,KS,66215,"8303 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8608 Dice Ln, Lenexa, KS 66215\",8608 Dice Ln,Lenexa,KS,66215,"8608 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8618 Acuff Ln, Lenexa, KS 66215\",8618 Acuff Ln,Lenexa,KS,66215,"8618 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8520 Darnell St, Lenexa, KS 66215\",8520 Darnell St,Lenexa,KS,66215,"8520 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14608 W 84th St\,14608 W 84th St\,,,,14608 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8522 Alden St, Lenexa, KS 66215\",8522 Alden St,Lenexa,KS,66215,"8522 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8608 Dice Ln\,8608 Dice Ln\,,,,8608 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8345 Mullen Rd, Lenexa, KS 66215\",8345 Mullen Rd,Lenexa,KS,66215,"8345 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8535 Hallet St,8535 Hallet St,,,,8535 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14713 W 84th St\,14713 W 84th St\,,,,14713 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8645 Greenway Ln\,8645 Greenway Ln\,,,,8645 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8342 Mullen Rd\,8342 Mullen Rd\,,,,8342 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8619 Dice Ln, Lenexa, KS 66215\",8619 Dice Ln,Lenexa,KS,66215,"8619 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8348 Mullen Rd, Lenexa, KS 66215\",8348 Mullen Rd,Lenexa,KS,66215,"8348 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14426 W 86th Terrace\,14426 W 86th Terrace\,,,,14426 W 86th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14330 W 86th Pl, Lenexa, KS 66215\",14330 W 86th Pl,Lenexa,KS,66215,"14330 W 86th Pl, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8508 Darnell St, Lenexa, KS 66215\",8508 Darnell St,Lenexa,KS,66215,"8508 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8305 Acuff Ln\,8305 Acuff Ln\,,,,8305 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8413 Hallet St
+Lenexa, KS 66215","8413 Hallet St
+Lenexa, KS 66215",,,,"8413 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8511 Hallet St
+Lenexa, KS 66215","8511 Hallet St
+Lenexa, KS 66215",,,,"8511 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14501 W 86th St, Lenexa, KS 66215\",14501 W 86th St,Lenexa,KS,66215,"14501 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8322 Mullen Rd\,8322 Mullen Rd\,,,,8322 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8427 Greenwood Cir, Lenexa, KS 66215\",8427 Greenwood Cir,Lenexa,KS,66215,"8427 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8363 Alden St, Lenexa, KS 66215\",8363 Alden St,Lenexa,KS,66215,"8363 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8341 Acuff Ln, Lenexa, KS 66215\",8341 Acuff Ln,Lenexa,KS,66215,"8341 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14407 W 84th Terrace, Lenexa, KS 66215\",14407 W 84th Terrace,Lenexa,KS,66215,"14407 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8349 Oakview Cir\,8349 Oakview Cir\,,,,8349 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8527 Hallet St
+Lenexa, KS 66215","8527 Hallet St
+Lenexa, KS 66215",,,,"8527 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8401 Greenwood Cir, Lenexa, KS 66215\",8401 Greenwood Cir,Lenexa,KS,66215,"8401 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8337 Acuff Ln\,8337 Acuff Ln\,,,,8337 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8451 Constance St\,8451 Constance St\,,,,8451 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8541 Greenwood Ln\,8541 Greenwood Ln\,,,,8541 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14721 W 83rd Terrace, Lenexa, KS 66215\",14721 W 83rd Terrace,Lenexa,KS,66215,"14721 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14134 W 84th Terrace\,14134 W 84th Terrace\,,,,14134 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14622 W 85th Terrace\,14622 W 85th Terrace\,,,,14622 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8429 Acuff Ln\,8429 Acuff Ln\,,,,8429 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8307 Acuff Ln, Lenexa, KS 66215\",8307 Acuff Ln,Lenexa,KS,66215,"8307 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14614 W 84th St\,14614 W 84th St\,,,,14614 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8639 Greenway Ln, Lenexa, KS 66215\",8639 Greenway Ln,Lenexa,KS,66215,"8639 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14633 W 85th Terrace, Lenexa, KS 66215\",14633 W 85th Terrace,Lenexa,KS,66215,"14633 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8342 Mullen Rd, Lenexa, KS 66215\",8342 Mullen Rd,Lenexa,KS,66215,"8342 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14201 W 84th Terrace\,14201 W 84th Terrace\,,,,14201 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8614 Dice Ln\,8614 Dice Ln\,,,,8614 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14613 W 85th Terrace\,14613 W 85th Terrace\,,,,14613 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8627 Acuff Ln\,8627 Acuff Ln\,,,,8627 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8405 Acuff Ln\,8405 Acuff Ln\,,,,8405 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8358 Alden St\,8358 Alden St\,,,,8358 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8533 Constance St\,8533 Constance St\,,,,8533 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14236 W 84th Terrace, Lenexa, KS 66215\",14236 W 84th Terrace,Lenexa,KS,66215,"14236 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8405 Mullen Rd, Lenexa, KS 66215\",8405 Mullen Rd,Lenexa,KS,66215,"8405 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8512 Hallet St, Lenexa, KS 66215\",8512 Hallet St,Lenexa,KS,66215,"8512 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14819 W 84th St\,14819 W 84th St\,,,,14819 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8434 Hallet St\,8434 Hallet St\,,,,8434 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8413 Hallet St, Lenexa, KS 66215\",8413 Hallet St,Lenexa,KS,66215,"8413 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8445 Hallet St
+Lenexa, KS 66215","8445 Hallet St
+Lenexa, KS 66215",,,,"8445 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8352 Oakview Cir\,8352 Oakview Cir\,,,,8352 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8358 Hallet St, Lenexa, KS 66215\",8358 Hallet St,Lenexa,KS,66215,"8358 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8530 Alden St, Lenexa, KS 66215\",8530 Alden St,Lenexa,KS,66215,"8530 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14813 W 84th St, Lenexa, KS 66215\",14813 W 84th St,Lenexa,KS,66215,"14813 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8429 Hallet St
+Lenexa, KS 66215","8429 Hallet St
+Lenexa, KS 66215",,,,"8429 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8519 Hallet St,8519 Hallet St,,,,8519 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14430 W 84th Terrace, Lenexa, KS 66215\",14430 W 84th Terrace,Lenexa,KS,66215,"14430 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8635 Acuff Ln\,8635 Acuff Ln\,,,,8635 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8307 Mullen Rd, Lenexa, KS 66215\",8307 Mullen Rd,Lenexa,KS,66215,"8307 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8434 Acuff Ln, Lenexa, KS 66215\",8434 Acuff Ln,Lenexa,KS,66215,"8434 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14902 W 84th Terrace\,14902 W 84th Terrace\,,,,14902 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8534 Hallet St\,8534 Hallet St\,,,,8534 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8628 Greenway Ln, Lenexa, KS 66215\",8628 Greenway Ln,Lenexa,KS,66215,"8628 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8645 Greenway Ln, Lenexa, KS 66215\",8645 Greenway Ln,Lenexa,KS,66215,"8645 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8508 Darnell St\,8508 Darnell St\,,,,8508 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8212 Acuff Ln, Lenexa, KS 66215\",8212 Acuff Ln,Lenexa,KS,66215,"8212 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8511 Hallet St\,8511 Hallet St\,,,,8511 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8619 Dice Ln\,8619 Dice Ln\,,,,8619 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8523 Darnell St, Lenexa, KS 66215\",8523 Darnell St,Lenexa,KS,66215,"8523 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14801 W 83rd Terrace, Lenexa, KS 66215\",14801 W 83rd Terrace,Lenexa,KS,66215,"14801 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14128 W 84th Terrace, Lenexa, KS 66215\",14128 W 84th Terrace,Lenexa,KS,66215,"14128 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8404 Acuff Ln\,8404 Acuff Ln\,,,,8404 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8630 Acuff Ln, Lenexa, KS 66215\",8630 Acuff Ln,Lenexa,KS,66215,"8630 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14626 W 85th Terrace\,14626 W 85th Terrace\,,,,14626 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14915 W 84th St\,14915 W 84th St\,,,,14915 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14245 W 84th Terrace, Lenexa, KS 66215\",14245 W 84th Terrace,Lenexa,KS,66215,"14245 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8310 Mullen Rd, Lenexa, KS 66215\",8310 Mullen Rd,Lenexa,KS,66215,"8310 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8348 Oakview Cir, Lenexa, KS 66215\",8348 Oakview Cir,Lenexa,KS,66215,"8348 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8518 Hallet St, Lenexa, KS 66215\",8518 Hallet St,Lenexa,KS,66215,"8518 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8405 Acuff Ln, Lenexa, KS 66215\",8405 Acuff Ln,Lenexa,KS,66215,"8405 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8327 Mullen Rd\,8327 Mullen Rd\,,,,8327 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14412 W 84th Terrace, Lenexa, KS 66215\",14412 W 84th Terrace,Lenexa,KS,66215,"14412 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14419 W 84th Terrace\,14419 W 84th Terrace\,,,,14419 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8521 Alden Ln\,8521 Alden Ln\,,,,8521 Alden Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8346 Mullen Rd, Lenexa, KS 66215\",8346 Mullen Rd,Lenexa,KS,66215,"8346 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14239 W 84th Terrace\,14239 W 84th Terrace\,,,,14239 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14902 W 84th Terrace, Lenexa, KS 66215\",14902 W 84th Terrace,Lenexa,KS,66215,"14902 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8626 Dice Ln, Lenexa, KS 66215\",8626 Dice Ln,Lenexa,KS,66215,"8626 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14336 W 86th Pl, Lenexa, KS 66215\",14336 W 86th Pl,Lenexa,KS,66215,"14336 W 86th Pl, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8004 Hallet St\,8004 Hallet St\,,,,8004 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8344 Acuff Ln, Lenexa, KS 66215\",8344 Acuff Ln,Lenexa,KS,66215,"8344 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8328 Mullen Rd\,8328 Mullen Rd\,,,,8328 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8441 Constance St\,8441 Constance St\,,,,8441 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8548 S Oakview Dr, Lenexa, KS 66215\",8548 S Oakview Dr,Lenexa,KS,66215,"8548 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8017 Hallet St, Lenexa, KS 66215\",8017 Hallet St,Lenexa,KS,66215,"8017 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14611 W 83rd Terrace\,14611 W 83rd Terrace\,,,,14611 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8523 Hallet St
+Lenexa, KS 66215","8523 Hallet St
+Lenexa, KS 66215",,,,"8523 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14709 W 84th St, Lenexa, KS 66215\",14709 W 84th St,Lenexa,KS,66215,"14709 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8405 Greenwood Cir\,8405 Greenwood Cir\,,,,8405 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8337 Alden St, Lenexa, KS 66215\",8337 Alden St,Lenexa,KS,66215,"8337 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14623 W 83rd Terrace\,14623 W 83rd Terrace\,,,,14623 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14629 W 84th St\,14629 W 84th St\,,,,14629 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8334 Greenwood Cir\,8334 Greenwood Cir\,,,,8334 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8347 Acuff Ln, Lenexa, KS 66215\",8347 Acuff Ln,Lenexa,KS,66215,"8347 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8437 Hallet St,8437 Hallet St,,,,8437 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8613 S Oakview Dr, Lenexa, KS 66215\",8613 S Oakview Dr,Lenexa,KS,66215,"8613 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8441 Hallet St\,8441 Hallet St\,,,,8441 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8606 S Oakview Dr\,8606 S Oakview Dr\,,,,8606 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8535 Hallet St, Lenexa, KS 66215\",8535 Hallet St,Lenexa,KS,66215,"8535 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8341 Oakview Cir, Lenexa, KS 66215\",8341 Oakview Cir,Lenexa,KS,66215,"8341 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,7935 Hallet St\,7935 Hallet St\,,,,7935 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8417 Greenwood Cir, Lenexa, KS 66215\",8417 Greenwood Cir,Lenexa,KS,66215,"8417 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8000 Hallet St\,8000 Hallet St\,,,,8000 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8418 Greenwood Cir\,8418 Greenwood Cir\,,,,8418 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8421 Hallet St
+Lenexa, KS 66215","8421 Hallet St
+Lenexa, KS 66215",,,,"8421 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14630 W 86th St, Lenexa, KS 66215\",14630 W 86th St,Lenexa,KS,66215,"14630 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8413 Hallet St\,8413 Hallet St\,,,,8413 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8330 Greenwood Cir\,8330 Greenwood Cir\,,,,8330 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8436 Darnell St\,8436 Darnell St\,,,,8436 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14213 W 84th Terrace\,14213 W 84th Terrace\,,,,14213 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8428 Greenwood Cir, Lenexa, KS 66215\",8428 Greenwood Cir,Lenexa,KS,66215,"8428 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14608 W 84th St, Lenexa, KS 66215\",14608 W 84th St,Lenexa,KS,66215,"14608 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14619 W 83rd Terrace, Lenexa, KS 66215\",14619 W 83rd Terrace,Lenexa,KS,66215,"14619 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14719 W 84th St\,14719 W 84th St\,,,,14719 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8005 Hallet St, Lenexa, KS 66215\",8005 Hallet St,Lenexa,KS,66215,"8005 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8358 Oakview Cir, Lenexa, KS 66215\",8358 Oakview Cir,Lenexa,KS,66215,"8358 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8303 Mullen Rd\,8303 Mullen Rd\,,,,8303 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14245 W 84th Terrace\,14245 W 84th Terrace\,,,,14245 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14046 W 84th Terrace, Lenexa, KS 66215\",14046 W 84th Terrace,Lenexa,KS,66215,"14046 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8364 Oakview Cir\,8364 Oakview Cir\,,,,8364 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14633 W 85th Terrace\,14633 W 85th Terrace\,,,,14633 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14403 W 86th Pl, Lenexa, KS 66215\",14403 W 86th Pl,Lenexa,KS,66215,"14403 W 86th Pl, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8539 S Oakview Dr\,8539 S Oakview Dr\,,,,8539 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8339 Oakview Cir, Lenexa, KS 66215\",8339 Oakview Cir,Lenexa,KS,66215,"8339 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14607 W 83rd Terrace\,14607 W 83rd Terrace\,,,,14607 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8647 Alden St\,8647 Alden St\,,,,8647 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14700 W 84th St, Lenexa, KS 66215\",14700 W 84th St,Lenexa,KS,66215,"14700 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8333 Greenwood Cir\,8333 Greenwood Cir\,,,,8333 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8532 Hallet St\,8532 Hallet St\,,,,8532 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8507 Hallet St\,8507 Hallet St\,,,,8507 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8517 Alden St, Lenexa, KS 66215\",8517 Alden St,Lenexa,KS,66215,"8517 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8005 Hallet St\,8005 Hallet St\,,,,8005 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8340 Oakview Cir\,8340 Oakview Cir\,,,,8340 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8441 Constance St, Lenexa, KS 66215\",8441 Constance St,Lenexa,KS,66215,"8441 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14920 W 84th Terrace, Lenexa, KS 66215\",14920 W 84th Terrace,Lenexa,KS,66215,"14920 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14219 W 84th Terrace\,14219 W 84th Terrace\,,,,14219 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8347 Hallet St, Lenexa, KS 66215\",8347 Hallet St,Lenexa,KS,66215,"8347 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8357 Oakview Cir, Lenexa, KS 66215\",8357 Oakview Cir,Lenexa,KS,66215,"8357 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8349 Hallet St\,8349 Hallet St\,,,,8349 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8615 Greenway Ln\,8615 Greenway Ln\,,,,8615 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8510 Hallet St, Lenexa, KS 66215\",8510 Hallet St,Lenexa,KS,66215,"8510 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14414 W 86th Terrace\,14414 W 86th Terrace\,,,,14414 W 86th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14308 W 84th Terrace, Lenexa, KS 66215\",14308 W 84th Terrace,Lenexa,KS,66215,"14308 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8449 Alden St\,8449 Alden St\,,,,8449 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14625 W 85th Terrace\,14625 W 85th Terrace\,,,,14625 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8626 Acuff Ln, Lenexa, KS 66215\",8626 Acuff Ln,Lenexa,KS,66215,"8626 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8503 Hallet St\,8503 Hallet St\,,,,8503 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8425 Hallet St
+Lenexa, KS 66215","8425 Hallet St
+Lenexa, KS 66215",,,,"8425 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8323 Mullen Rd, Lenexa, KS 66215\",8323 Mullen Rd,Lenexa,KS,66215,"8323 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14302 W 84th Terrace\,14302 W 84th Terrace\,,,,14302 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14804 W 84th Terrace\,14804 W 84th Terrace\,,,,14804 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8354 Oakview Cir, Lenexa, KS 66215\",8354 Oakview Cir,Lenexa,KS,66215,"8354 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14623 W 83rd Terrace, Lenexa, KS 66215\",14623 W 83rd Terrace,Lenexa,KS,66215,"14623 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8345 Hallet St\,8345 Hallet St\,,,,8345 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14046 W 84th Terrace\,14046 W 84th Terrace\,,,,14046 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"7935 Hallet St, Lenexa, KS 66215\",7935 Hallet St,Lenexa,KS,66215,"7935 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8319 Mullen Rd\,8319 Mullen Rd\,,,,8319 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8648 Greenwood Ln, Lenexa, KS 66215\",8648 Greenwood Ln,Lenexa,KS,66215,"8648 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8360 Oakview Cir\,8360 Oakview Cir\,,,,8360 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8520 Greenwood Ln\,8520 Greenwood Ln\,,,,8520 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8527 Alden St\,8527 Alden St\,,,,8527 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8601 Dice Ln, Lenexa, KS 66215\",8601 Dice Ln,Lenexa,KS,66215,"8601 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8613 S Oakview Dr\,8613 S Oakview Dr\,,,,8613 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8518 Alden St, Lenexa, KS 66215\",8518 Alden St,Lenexa,KS,66215,"8518 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8635 Acuff Ln, Lenexa, KS 66215\",8635 Acuff Ln,Lenexa,KS,66215,"8635 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8356 Hallet St, Lenexa, KS 66215\",8356 Hallet St,Lenexa,KS,66215,"8356 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14608 W 83rd Terrace\,14608 W 83rd Terrace\,,,,14608 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8522 Hallet St, Lenexa, KS 66215\",8522 Hallet St,Lenexa,KS,66215,"8522 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8406 Mullen Rd, Lenexa, KS 66215\",8406 Mullen Rd,Lenexa,KS,66215,"8406 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14818 W 83rd Terrace, Lenexa, KS 66215\",14818 W 83rd Terrace,Lenexa,KS,66215,"14818 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8523 Hallet St, Lenexa, KS 66215\",8523 Hallet St,Lenexa,KS,66215,"8523 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8614 S Oakview Dr, Lenexa, KS 66215\",8614 S Oakview Dr,Lenexa,KS,66215,"8614 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8650 Dice Ln\,8650 Dice Ln\,,,,8650 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14609 W 83rd Terrace\,14609 W 83rd Terrace\,,,,14609 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14134 W 84th Terrace, Lenexa, KS 66215\",14134 W 84th Terrace,Lenexa,KS,66215,"14134 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8430 Hallet St, Lenexa, KS 66215\",8430 Hallet St,Lenexa,KS,66215,"8430 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8608 Hallet St\,8608 Hallet St\,,,,8608 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8421 Greenwood Cir\,8421 Greenwood Cir\,,,,8421 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8343 Acuff Ln, Lenexa, KS 66215\",8343 Acuff Ln,Lenexa,KS,66215,"8343 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14625 W 86th St\,14625 W 86th St\,,,,14625 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14819 W 84th St, Lenexa, KS 66215\",14819 W 84th St,Lenexa,KS,66215,"14819 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8350 Oakview Cir, Lenexa, KS 66215\",8350 Oakview Cir,Lenexa,KS,66215,"8350 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8628 Greenway Ln\,8628 Greenway Ln\,,,,8628 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8535 Hallet St
+Lenexa, KS 66215","8535 Hallet St
+Lenexa, KS 66215",,,,"8535 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8502 Darnell St\,8502 Darnell St\,,,,8502 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8437 Hallet St\,8437 Hallet St\,,,,8437 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8530 Hallet St\,8530 Hallet St\,,,,8530 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8609 Greenwood Ln\,8609 Greenwood Ln\,,,,8609 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8012 Hallet St\,8012 Hallet St\,,,,8012 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8425 Greenwood Cir, Lenexa, KS 66215\",8425 Greenwood Cir,Lenexa,KS,66215,"8425 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8538 Dice Ln\,8538 Dice Ln\,,,,8538 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14140 W 84th Terrace, Lenexa, KS 66215\",14140 W 84th Terrace,Lenexa,KS,66215,"14140 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8335 Hallet St, Lenexa, KS 66215\",8335 Hallet St,Lenexa,KS,66215,"8335 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8343 Mullen Rd, Lenexa, KS 66215\",8343 Mullen Rd,Lenexa,KS,66215,"8343 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14501 W 86th St\,14501 W 86th St\,,,,14501 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8616 Greenway Ln, Lenexa, KS 66215\",8616 Greenway Ln,Lenexa,KS,66215,"8616 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8320 Mullen Rd\,8320 Mullen Rd\,,,,8320 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14620 W 84th St, Lenexa, KS 66215\",14620 W 84th St,Lenexa,KS,66215,"14620 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8538 Dice Ln, Lenexa, KS 66215\",8538 Dice Ln,Lenexa,KS,66215,"8538 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8406 Mullen Rd\,8406 Mullen Rd\,,,,8406 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8344 Hallet St\,8344 Hallet St\,,,,8344 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8409 Greenwood Cir\,8409 Greenwood Cir\,,,,8409 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8638 Greenwood Ln\,8638 Greenwood Ln\,,,,8638 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8442 Acuff Ln, Lenexa, KS 66215\",8442 Acuff Ln,Lenexa,KS,66215,"8442 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14639 W 86th St, Lenexa, KS 66215\",14639 W 86th St,Lenexa,KS,66215,"14639 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8347 Hallet St\,8347 Hallet St\,,,,8347 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14326 W 84th Terrace\,14326 W 84th Terrace\,,,,14326 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14905 W 84th Terrace, Lenexa, KS 66215\",14905 W 84th Terrace,Lenexa,KS,66215,"14905 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14400 W 84th Terrace\,14400 W 84th Terrace\,,,,14400 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14615 W 83rd Terrace, Lenexa, KS 66215\",14615 W 83rd Terrace,Lenexa,KS,66215,"14615 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8638 S Oakview Dr, Lenexa, KS 66215\",8638 S Oakview Dr,Lenexa,KS,66215,"8638 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8330 Mullen Rd\,8330 Mullen Rd\,,,,8330 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8357 Alden St\,8357 Alden St\,,,,8357 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8353 Hallet St, Lenexa, KS 66215\",8353 Hallet St,Lenexa,KS,66215,"8353 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8542 S Oakview Dr, Lenexa, KS 66215\",8542 S Oakview Dr,Lenexa,KS,66215,"8542 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8342 Oakview Cir\,8342 Oakview Cir\,,,,8342 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8637 S Oakview Dr, Lenexa, KS 66215\",8637 S Oakview Dr,Lenexa,KS,66215,"8637 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14813 W 83rd Terrace, Lenexa, KS 66215\",14813 W 83rd Terrace,Lenexa,KS,66215,"14813 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8526 Alden St, Lenexa, KS 66215\",8526 Alden St,Lenexa,KS,66215,"8526 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8506 Hallet St, Lenexa, KS 66215\",8506 Hallet St,Lenexa,KS,66215,"8506 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14231 W 84th Terrace, Lenexa, KS 66215\",14231 W 84th Terrace,Lenexa,KS,66215,"14231 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8535 Darnell St\,8535 Darnell St\,,,,8535 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14600 W 86th St, Lenexa, KS 66215\",14600 W 86th St,Lenexa,KS,66215,"14600 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8404 Mullen Rd\,8404 Mullen Rd\,,,,8404 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8337 Greenwood Cir\,8337 Greenwood Cir\,,,,8337 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8628 Greenwood Ln\,8628 Greenwood Ln\,,,,8628 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14636 W 83rd Terrace, Lenexa, KS 66215\",14636 W 83rd Terrace,Lenexa,KS,66215,"14636 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8404 Mullen Rd, Lenexa, KS 66215\",8404 Mullen Rd,Lenexa,KS,66215,"8404 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8345 Acuff Ln\,8345 Acuff Ln\,,,,8345 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8621 Greenway Ln, Lenexa, KS 66215\",8621 Greenway Ln,Lenexa,KS,66215,"8621 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8502 Darnell St, Lenexa, KS 66215\",8502 Darnell St,Lenexa,KS,66215,"8502 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14909 W 84th Terrace, Lenexa, KS 66215\",14909 W 84th Terrace,Lenexa,KS,66215,"14909 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8631 Dice Ln\,8631 Dice Ln\,,,,8631 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8508 Hallet St\,8508 Hallet St\,,,,8508 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8348 Oakview Cir\,8348 Oakview Cir\,,,,8348 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14602 W 84th St, Lenexa, KS 66215\",14602 W 84th St,Lenexa,KS,66215,"14602 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8358 Oakview Cir\,8358 Oakview Cir\,,,,8358 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8520 Greenwood Ln, Lenexa, KS 66215\",8520 Greenwood Ln,Lenexa,KS,66215,"8520 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8635 Alden St\,8635 Alden St\,,,,8635 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8513 Constance St, Lenexa, KS 66215\",8513 Constance St,Lenexa,KS,66215,"8513 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8352 Hallet St, Lenexa, KS 66215\",8352 Hallet St,Lenexa,KS,66215,"8352 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8310 Acuff Ln\,8310 Acuff Ln\,,,,8310 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8639 Alden St, Lenexa, KS 66215\",8639 Alden St,Lenexa,KS,66215,"8639 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14801 W 84th St, Lenexa, KS 66215\",14801 W 84th St,Lenexa,KS,66215,"14801 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8001 Hallet St, Lenexa, KS 66215\",8001 Hallet St,Lenexa,KS,66215,"8001 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14430 W 84th Terrace\,14430 W 84th Terrace\,,,,14430 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8629 S Oakview Dr\,8629 S Oakview Dr\,,,,8629 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8457 Dice Ln, Lenexa, KS 66215\",8457 Dice Ln,Lenexa,KS,66215,"8457 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14233 W 84th Terrace, Lenexa, KS 66215\",14233 W 84th Terrace,Lenexa,KS,66215,"14233 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8309 Mullen Rd, Lenexa, KS 66215\",8309 Mullen Rd,Lenexa,KS,66215,"8309 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14908 W 84th Terrace\,14908 W 84th Terrace\,,,,14908 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14818 W 84th Terrace\,14818 W 84th Terrace\,,,,14818 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8303 Mullen Rd, Lenexa, KS 66215\",8303 Mullen Rd,Lenexa,KS,66215,"8303 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14424 W 84th Terrace, Lenexa, KS 66215\",14424 W 84th Terrace,Lenexa,KS,66215,"14424 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8403 Mullen Rd\,8403 Mullen Rd\,,,,8403 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14210 W 84th Terrace\,14210 W 84th Terrace\,,,,14210 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8339 Mullen Rd, Lenexa, KS 66215\",8339 Mullen Rd,Lenexa,KS,66215,"8339 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8515 Alden St\,8515 Alden St\,,,,8515 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8503 Hallet St, Lenexa, KS 66215\",8503 Hallet St,Lenexa,KS,66215,"8503 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8515 Darnell St, Lenexa, KS 66215\",8515 Darnell St,Lenexa,KS,66215,"8515 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8604 Hallet St\,8604 Hallet St\,,,,8604 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8615 Greenway Ln, Lenexa, KS 66215\",8615 Greenway Ln,Lenexa,KS,66215,"8615 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14133 W 84th Terrace\,14133 W 84th Terrace\,,,,14133 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8519 Hallet St
+Lenexa, KS 66215","8519 Hallet St
+Lenexa, KS 66215",,,,"8519 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8340 Oakview Cir, Lenexa, KS 66215\",8340 Oakview Cir,Lenexa,KS,66215,"8340 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8414 Hallet St\,8414 Hallet St\,,,,8414 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8403 Mullen Rd, Lenexa, KS 66215\",8403 Mullen Rd,Lenexa,KS,66215,"8403 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8418 Greenwood Cir, Lenexa, KS 66215\",8418 Greenwood Cir,Lenexa,KS,66215,"8418 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14920 W 84th Terrace\,14920 W 84th Terrace\,,,,14920 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14914 W 84th Terrace\,14914 W 84th Terrace\,,,,14914 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8622 Greenway Ln\,8622 Greenway Ln\,,,,8622 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8352 Acuff Ln\,8352 Acuff Ln\,,,,8352 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14817 W 84th Terrace\,14817 W 84th Terrace\,,,,14817 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8321 Alden St\,8321 Alden St\,,,,8321 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8652 Greenway Ln\,8652 Greenway Ln\,,,,8652 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8620 Dice Ln, Lenexa, KS 66215\",8620 Dice Ln,Lenexa,KS,66215,"8620 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8000 Hallet St, Lenexa, KS 66215\",8000 Hallet St,Lenexa,KS,66215,"8000 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14431 W 84th Terrace\,14431 W 84th Terrace\,,,,14431 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8438 Acuff Ln\,8438 Acuff Ln\,,,,8438 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8539 Dice Ln\,8539 Dice Ln\,,,,8539 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8008 Hallet St, Lenexa, KS 66215\",8008 Hallet St,Lenexa,KS,66215,"8008 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14207 W 84th Terrace\,14207 W 84th Terrace\,,,,14207 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8317 Mullen Rd, Lenexa, KS 66215\",8317 Mullen Rd,Lenexa,KS,66215,"8317 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8341 Mullen Rd, Lenexa, KS 66215\",8341 Mullen Rd,Lenexa,KS,66215,"8341 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8533 Greenwood Ln, Lenexa, KS 66215\",8533 Greenwood Ln,Lenexa,KS,66215,"8533 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8610 Hallet St\,8610 Hallet St\,,,,8610 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8430 Acuff Ln, Lenexa, KS 66215\",8430 Acuff Ln,Lenexa,KS,66215,"8430 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14513 W 86th St\,14513 W 86th St\,,,,14513 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8506 Hallet St\,8506 Hallet St\,,,,8506 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8420 Widmer Rd, Lenexa, KS 66215\",8420 Widmer Rd,Lenexa,KS,66215,"8420 Widmer Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8419 Greenwood Cir, Lenexa, KS 66215\",8419 Greenwood Cir,Lenexa,KS,66215,"8419 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8618 Acuff Ln\,8618 Acuff Ln\,,,,8618 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14908 W 84th St\,14908 W 84th St\,,,,14908 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14519 W 86th St\,14519 W 86th St\,,,,14519 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14909 W 84th Terrace\,14909 W 84th Terrace\,,,,14909 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14507 W 86th St, Lenexa, KS 66215\",14507 W 86th St,Lenexa,KS,66215,"14507 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8519 Constance St\,8519 Constance St\,,,,8519 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8335 Acuff Ln, Lenexa, KS 66215\",8335 Acuff Ln,Lenexa,KS,66215,"8335 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8634 Greenway Ln\,8634 Greenway Ln\,,,,8634 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14210 W 84th Terrace, Lenexa, KS 66215\",14210 W 84th Terrace,Lenexa,KS,66215,"14210 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8301 Mullen Rd\,8301 Mullen Rd\,,,,8301 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8527 Hallet St\,8527 Hallet St\,,,,8527 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8311 Acuff Ln, Lenexa, KS 66215\",8311 Acuff Ln,Lenexa,KS,66215,"8311 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8424 Greenwood Cir\,8424 Greenwood Cir\,,,,8424 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8335 Alden St, Lenexa, KS 66215\",8335 Alden St,Lenexa,KS,66215,"8335 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8417 Hallet St, Lenexa, KS 66215\",8417 Hallet St,Lenexa,KS,66215,"8417 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8347 Mullen Rd, Lenexa, KS 66215\",8347 Mullen Rd,Lenexa,KS,66215,"8347 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8539 Dice Ln, Lenexa, KS 66215\",8539 Dice Ln,Lenexa,KS,66215,"8539 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8336 Oakview Cir\,8336 Oakview Cir\,,,,8336 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8353 Hallet St\,8353 Hallet St\,,,,8353 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8343 Alden St\,8343 Alden St\,,,,8343 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8344 Hallet St, Lenexa, KS 66215\",8344 Hallet St,Lenexa,KS,66215,"8344 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8319 Acuff Ln, Lenexa, KS 66215\",8319 Acuff Ln,Lenexa,KS,66215,"8319 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8413 Hallet St,8413 Hallet St,,,,8413 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14813 W 84th St\,14813 W 84th St\,,,,14813 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8626 Dice Ln\,8626 Dice Ln\,,,,8626 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8324 Mullen Rd\,8324 Mullen Rd\,,,,8324 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8521 Alden Ln, Lenexa, KS 66215\",8521 Alden Ln,Lenexa,KS,66215,"8521 Alden Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14222 W 84th Terrace\,14222 W 84th Terrace\,,,,14222 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8341 Greenwood Cir, Lenexa, KS 66215\",8341 Greenwood Cir,Lenexa,KS,66215,"8341 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8516 Darnell St, Lenexa, KS 66215\",8516 Darnell St,Lenexa,KS,66215,"8516 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8622 S Oakview Dr, Lenexa, KS 66215\",8622 S Oakview Dr,Lenexa,KS,66215,"8622 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8340 Acuff Ln\,8340 Acuff Ln\,,,,8340 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14617 W 85th Terrace, Lenexa, KS 66215\",14617 W 85th Terrace,Lenexa,KS,66215,"14617 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14805 W 84th Terrace\,14805 W 84th Terrace\,,,,14805 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8605 Greenwood Ln\,8605 Greenwood Ln\,,,,8605 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14231 W 84th Terrace\,14231 W 84th Terrace\,,,,14231 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8349 Hallet St, Lenexa, KS 66215\",8349 Hallet St,Lenexa,KS,66215,"8349 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8326 Mullen Rd\,8326 Mullen Rd\,,,,8326 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8603 Greenway Ln, Lenexa, KS 66215\",8603 Greenway Ln,Lenexa,KS,66215,"8603 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14613 W 85th Terrace, Lenexa, KS 66215\",14613 W 85th Terrace,Lenexa,KS,66215,"14613 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8343 Mullen Rd\,8343 Mullen Rd\,,,,8343 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8515 Hallet St, Lenexa, KS 66215\",8515 Hallet St,Lenexa,KS,66215,"8515 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14636 W 86th St, Lenexa, KS 66215\",14636 W 86th St,Lenexa,KS,66215,"14636 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8370 Alden St, Lenexa, KS 66215\",8370 Alden St,Lenexa,KS,66215,"8370 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8443 Darnell St\,8443 Darnell St\,,,,8443 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14040 W 84th Terrace\,14040 W 84th Terrace\,,,,14040 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8350 Hallet St\,8350 Hallet St\,,,,8350 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14625 W 85th Terrace, Lenexa, KS 66215\",14625 W 85th Terrace,Lenexa,KS,66215,"14625 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8524 Hallet St, Lenexa, KS 66215\",8524 Hallet St,Lenexa,KS,66215,"8524 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8633 Greenway Ln, Lenexa, KS 66215\",8633 Greenway Ln,Lenexa,KS,66215,"8633 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8350 Oakview Cir\,8350 Oakview Cir\,,,,8350 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8644 Dice Ln\,8644 Dice Ln\,,,,8644 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14700 W 84th St\,14700 W 84th St\,,,,14700 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8610 S Oakview Dr, Lenexa, KS 66215\",8610 S Oakview Dr,Lenexa,KS,66215,"8610 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14816 W 84th St\,14816 W 84th St\,,,,14816 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14611 W 83rd Terrace, Lenexa, KS 66215\",14611 W 83rd Terrace,Lenexa,KS,66215,"14611 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14336 W 86th Pl\,14336 W 86th Pl\,,,,14336 W 86th Pl\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8405 Greenwood Cir, Lenexa, KS 66215\",8405 Greenwood Cir,Lenexa,KS,66215,"8405 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8629 S Oakview Dr, Lenexa, KS 66215\",8629 S Oakview Dr,Lenexa,KS,66215,"8629 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14635 W 86th St\,14635 W 86th St\,,,,14635 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8315 Mullen Rd, Lenexa, KS 66215\",8315 Mullen Rd,Lenexa,KS,66215,"8315 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14235 W 84th Terrace\,14235 W 84th Terrace\,,,,14235 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8411 Acuff Ln\,8411 Acuff Ln\,,,,8411 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8597 Dice Ln\,8597 Dice Ln\,,,,8597 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8601 Dice Ln\,8601 Dice Ln\,,,,8601 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8504 Hallet St\,8504 Hallet St\,,,,8504 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8357 Alden St, Lenexa, KS 66215\",8357 Alden St,Lenexa,KS,66215,"8357 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8443 Darnell St, Lenexa, KS 66215\",8443 Darnell St,Lenexa,KS,66215,"8443 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8411 Greenwood Cir\,8411 Greenwood Cir\,,,,8411 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8652 Greenway Ln, Lenexa, KS 66215\",8652 Greenway Ln,Lenexa,KS,66215,"8652 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14819 W 83rd Terrace, Lenexa, KS 66215\",14819 W 83rd Terrace,Lenexa,KS,66215,"14819 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8429 Acuff Ln, Lenexa, KS 66215\",8429 Acuff Ln,Lenexa,KS,66215,"8429 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8343 Hallet St, Lenexa, KS 66215\",8343 Hallet St,Lenexa,KS,66215,"8343 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8441 Acuff Ln, Lenexa, KS 66215\",8441 Acuff Ln,Lenexa,KS,66215,"8441 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8541 S Oakview Dr, Lenexa, KS 66215\",8541 S Oakview Dr,Lenexa,KS,66215,"8541 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8343 Hallet St\,8343 Hallet St\,,,,8343 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8524 Hallet St\,8524 Hallet St\,,,,8524 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14140 W 84th Terrace\,14140 W 84th Terrace\,,,,14140 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14602 W 84th St\,14602 W 84th St\,,,,14602 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8523 Alden St\,8523 Alden St\,,,,8523 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8362 Oakview Cir, Lenexa, KS 66215\",8362 Oakview Cir,Lenexa,KS,66215,"8362 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14622 W 86th St\,14622 W 86th St\,,,,14622 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8429 Constance St\,8429 Constance St\,,,,8429 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8445 Hallet St,8445 Hallet St,,,,8445 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8650 Dice Ln, Lenexa, KS 66215\",8650 Dice Ln,Lenexa,KS,66215,"8650 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8311 Acuff Ln\,8311 Acuff Ln\,,,,8311 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8515 Hallet St,8515 Hallet St,,,,8515 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8333 Greenwood Cir, Lenexa, KS 66215\",8333 Greenwood Cir,Lenexa,KS,66215,"8333 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14040 W 84th Terrace, Lenexa, KS 66215\",14040 W 84th Terrace,Lenexa,KS,66215,"14040 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14128 W 84th Terrace\,14128 W 84th Terrace\,,,,14128 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8628 Greenwood Ln, Lenexa, KS 66215\",8628 Greenwood Ln,Lenexa,KS,66215,"8628 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14520 W 86th Terrace, Lenexa, KS 66215\",14520 W 86th Terrace,Lenexa,KS,66215,"14520 W 86th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8423 Greenwood Cir\,8423 Greenwood Cir\,,,,8423 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14625 W 84th St, Lenexa, KS 66215\",14625 W 84th St,Lenexa,KS,66215,"14625 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8632 Dice Ln, Lenexa, KS 66215\",8632 Dice Ln,Lenexa,KS,66215,"8632 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8614 Acuff Ln, Lenexa, KS 66215\",8614 Acuff Ln,Lenexa,KS,66215,"8614 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14615 W 83rd Terrace\,14615 W 83rd Terrace\,,,,14615 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"15002 W 84th Terrace, Lenexa, KS 66215\",15002 W 84th Terrace,Lenexa,KS,66215,"15002 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8346 Mullen Rd\,8346 Mullen Rd\,,,,8346 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8345 Greenwood Cir\,8345 Greenwood Cir\,,,,8345 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8352 Hallet St\,8352 Hallet St\,,,,8352 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8343 Acuff Ln\,8343 Acuff Ln\,,,,8343 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8630 Acuff Ln\,8630 Acuff Ln\,,,,8630 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8333 Acuff Ln\,8333 Acuff Ln\,,,,8333 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8637 Dice Ln\,8637 Dice Ln\,,,,8637 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14620 W 84th St\,14620 W 84th St\,,,,14620 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8339 Acuff Ln, Lenexa, KS 66215\",8339 Acuff Ln,Lenexa,KS,66215,"8339 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14400 W 84th Terrace, Lenexa, KS 66215\",14400 W 84th Terrace,Lenexa,KS,66215,"14400 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8526 Hallet St\,8526 Hallet St\,,,,8526 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8412 Acuff Ln, Lenexa, KS 66215\",8412 Acuff Ln,Lenexa,KS,66215,"8412 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8361 Acuff Ln, Lenexa, KS 66215\",8361 Acuff Ln,Lenexa,KS,66215,"8361 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14320 W 84th Terrace, Lenexa, KS 66215\",14320 W 84th Terrace,Lenexa,KS,66215,"14320 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8339 Mullen Rd\,8339 Mullen Rd\,,,,8339 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8401 Acuff Ln\,8401 Acuff Ln\,,,,8401 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8630 S Oakview Dr, Lenexa, KS 66215\",8630 S Oakview Dr,Lenexa,KS,66215,"8630 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8355 Hallet St, Lenexa, KS 66215\",8355 Hallet St,Lenexa,KS,66215,"8355 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8642 S Oakview Dr, Lenexa, KS 66215\",8642 S Oakview Dr,Lenexa,KS,66215,"8642 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8625 Dice Ln\,8625 Dice Ln\,,,,8625 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14818 W 83rd Terrace\,14818 W 83rd Terrace\,,,,14818 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8369 Alden St, Lenexa, KS 66215\",8369 Alden St,Lenexa,KS,66215,"8369 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14243 W 84th Terrace\,14243 W 84th Terrace\,,,,14243 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14641 W 85th Terrace\,14641 W 85th Terrace\,,,,14641 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14621 W 84th St, Lenexa, KS 66215\",14621 W 84th St,Lenexa,KS,66215,"14621 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14630 W 86th St\,14630 W 86th St\,,,,14630 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8620 Dice Ln\,8620 Dice Ln\,,,,8620 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14909 W 84th St\,14909 W 84th St\,,,,14909 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14807 W 83rd Terrace\,14807 W 83rd Terrace\,,,,14807 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8526 Alden St\,8526 Alden St\,,,,8526 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8527 Alden St, Lenexa, KS 66215\",8527 Alden St,Lenexa,KS,66215,"8527 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14500 W 86th St\,14500 W 86th St\,,,,14500 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14621 W 85th Terrace, Lenexa, KS 66215\",14621 W 85th Terrace,Lenexa,KS,66215,"14621 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8507 Constance St, Lenexa, KS 66215\",8507 Constance St,Lenexa,KS,66215,"8507 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8339 Alden Ln, Lenexa, KS 66215\",8339 Alden Ln,Lenexa,KS,66215,"8339 Alden Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8338 Greenwood Cir, Lenexa, KS 66215\",8338 Greenwood Cir,Lenexa,KS,66215,"8338 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14419 W 84th Terrace, Lenexa, KS 66215\",14419 W 84th Terrace,Lenexa,KS,66215,"14419 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8321 Greenwood Cir\,8321 Greenwood Cir\,,,,8321 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8639 Alden St\,8639 Alden St\,,,,8639 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8526 Hallet St, Lenexa, KS 66215\",8526 Hallet St,Lenexa,KS,66215,"8526 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8618 S Oakview Dr\,8618 S Oakview Dr\,,,,8618 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8546 S Oakview Dr, Lenexa, KS 66215\",8546 S Oakview Dr,Lenexa,KS,66215,"8546 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8607 Dice Ln\,8607 Dice Ln\,,,,8607 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14632 W 84th St\,14632 W 84th St\,,,,14632 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8634 Greenway Ln, Lenexa, KS 66215\",8634 Greenway Ln,Lenexa,KS,66215,"8634 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14241 W 84th Terrace\,14241 W 84th Terrace\,,,,14241 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14418 W 86th Terrace\,14418 W 86th Terrace\,,,,14418 W 86th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14915 W 84th Terrace, Lenexa, KS 66215\",14915 W 84th Terrace,Lenexa,KS,66215,"14915 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8626 S Oakview Dr\,8626 S Oakview Dr\,,,,8626 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8433 Hallet St, Lenexa, KS 66215\",8433 Hallet St,Lenexa,KS,66215,"8433 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8523 Alden St, Lenexa, KS 66215\",8523 Alden St,Lenexa,KS,66215,"8523 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8345 Mullen Rd\,8345 Mullen Rd\,,,,8345 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14506 W 86th St, Lenexa, KS 66215\",14506 W 86th St,Lenexa,KS,66215,"14506 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14618 W 86th St, Lenexa, KS 66215\",14618 W 86th St,Lenexa,KS,66215,"14618 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14706 W 84th St\,14706 W 84th St\,,,,14706 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8429 Hallet St\,8429 Hallet St\,,,,8429 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8613 Dice Ln, Lenexa, KS 66215\",8613 Dice Ln,Lenexa,KS,66215,"8613 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14506 W 86th St\,14506 W 86th St\,,,,14506 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8309 Mullen Rd\,8309 Mullen Rd\,,,,8309 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8345 Acuff Ln, Lenexa, KS 66215\",8345 Acuff Ln,Lenexa,KS,66215,"8345 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14902 W 84th St\,14902 W 84th St\,,,,14902 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8524 Greenwood Ln\,8524 Greenwood Ln\,,,,8524 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8531 Hallet St, Lenexa, KS 66215\",8531 Hallet St,Lenexa,KS,66215,"8531 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8601 Greenwood Ln, Lenexa, KS 66215\",8601 Greenwood Ln,Lenexa,KS,66215,"8601 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8616 Greenwood Ln, Lenexa, KS 66215\",8616 Greenwood Ln,Lenexa,KS,66215,"8616 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8525 Greenwood Ln, Lenexa, KS 66215\",8525 Greenwood Ln,Lenexa,KS,66215,"8525 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8540 S Oakview Dr\,8540 S Oakview Dr\,,,,8540 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8001 Hallet St\,8001 Hallet St\,,,,8001 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8614 S Oakview Dr\,8614 S Oakview Dr\,,,,8614 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14430 W 86th Terrace, Lenexa, KS 66215\",14430 W 86th Terrace,Lenexa,KS,66215,"14430 W 86th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8631 Dice Ln, Lenexa, KS 66215\",8631 Dice Ln,Lenexa,KS,66215,"8631 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8339 Hallet St\,8339 Hallet St\,,,,8339 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8541 S Oakview Dr\,8541 S Oakview Dr\,,,,8541 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14634 W 85th Terrace, Lenexa, KS 66215\",14634 W 85th Terrace,Lenexa,KS,66215,"14634 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14618 W 86th St\,14618 W 86th St\,,,,14618 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8631 Acuff Ln, Lenexa, KS 66215\",8631 Acuff Ln,Lenexa,KS,66215,"8631 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8458 Dice Ln, Lenexa, KS 66215\",8458 Dice Ln,Lenexa,KS,66215,"8458 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8021 Hallet St, Lenexa, KS 66215\",8021 Hallet St,Lenexa,KS,66215,"8021 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8364 Oakview Cir, Lenexa, KS 66215\",8364 Oakview Cir,Lenexa,KS,66215,"8364 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8421 Hallet St\,8421 Hallet St\,,,,8421 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8529 Greenwood Ln, Lenexa, KS 66215\",8529 Greenwood Ln,Lenexa,KS,66215,"8529 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8303 Acuff Ln\,8303 Acuff Ln\,,,,8303 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8437 Hallet St
+Lenexa, KS 66215","8437 Hallet St
+Lenexa, KS 66215",,,,"8437 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14625 W 84th St\,14625 W 84th St\,,,,14625 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8318 Mullen Rd\,8318 Mullen Rd\,,,,8318 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14418 W 84th Terrace, Lenexa, KS 66215\",14418 W 84th Terrace,Lenexa,KS,66215,"14418 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8212 Acuff Ln\,8212 Acuff Ln\,,,,8212 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8358 Hallet St\,8358 Hallet St\,,,,8358 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8618 S Oakview Dr, Lenexa, KS 66215\",8618 S Oakview Dr,Lenexa,KS,66215,"8618 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8639 Greenway Ln\,8639 Greenway Ln\,,,,8639 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8458 Dice Ln\,8458 Dice Ln\,,,,8458 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14807 W 84th St\,14807 W 84th St\,,,,14807 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8622 Acuff Ln, Lenexa, KS 66215\",8622 Acuff Ln,Lenexa,KS,66215,"8622 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8349 Oakview Cir, Lenexa, KS 66215\",8349 Oakview Cir,Lenexa,KS,66215,"8349 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8339 Alden Ln\,8339 Alden Ln\,,,,8339 Alden Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8309 Acuff Ln\,8309 Acuff Ln\,,,,8309 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8641 Alden St\,8641 Alden St\,,,,8641 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8502 Hallet St\,8502 Hallet St\,,,,8502 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14422 W 86th Terrace, Lenexa, KS 66215\",14422 W 86th Terrace,Lenexa,KS,66215,"14422 W 86th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14418 W 84th Terrace\,14418 W 84th Terrace\,,,,14418 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8442 Darnell St\,8442 Darnell St\,,,,8442 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8429 Constance St, Lenexa, KS 66215\",8429 Constance St,Lenexa,KS,66215,"8429 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8009 Hallet St\,8009 Hallet St\,,,,8009 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8518 Alden St\,8518 Alden St\,,,,8518 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8538 S Oakview Dr\,8538 S Oakview Dr\,,,,8538 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14413 W 84th Terrace\,14413 W 84th Terrace\,,,,14413 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14422 W 86th Terrace\,14422 W 86th Terrace\,,,,14422 W 86th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8538 S Oakview Dr, Lenexa, KS 66215\",8538 S Oakview Dr,Lenexa,KS,66215,"8538 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8348 Acuff Ln, Lenexa, KS 66215\",8348 Acuff Ln,Lenexa,KS,66215,"8348 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8527 Hallet St, Lenexa, KS 66215\",8527 Hallet St,Lenexa,KS,66215,"8527 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14307 W 84th Terrace\,14307 W 84th Terrace\,,,,14307 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8420 Widmer Rd\,8420 Widmer Rd\,,,,8420 Widmer Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8338 Mullen Rd\,8338 Mullen Rd\,,,,8338 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8344 Oakview Cir, Lenexa, KS 66215\",8344 Oakview Cir,Lenexa,KS,66215,"8344 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8422 Hallet St\,8422 Hallet St\,,,,8422 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8648 Greenwood Ln\,8648 Greenwood Ln\,,,,8648 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14809 W 84th Terrace, Lenexa, KS 66215\",14809 W 84th Terrace,Lenexa,KS,66215,"14809 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8520 Darnell St\,8520 Darnell St\,,,,8520 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14903 W 84th St, Lenexa, KS 66215\",14903 W 84th St,Lenexa,KS,66215,"14903 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8531 Hallet St\,8531 Hallet St\,,,,8531 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8350 Hallet St, Lenexa, KS 66215\",8350 Hallet St,Lenexa,KS,66215,"8350 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8340 Mullen Rd\,8340 Mullen Rd\,,,,8340 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8457 Dice Ln\,8457 Dice Ln\,,,,8457 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8433 Hallet St,8433 Hallet St,,,,8433 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14635 W 86th St, Lenexa, KS 66215\",14635 W 86th St,Lenexa,KS,66215,"14635 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8511 Hallet St, Lenexa, KS 66215\",8511 Hallet St,Lenexa,KS,66215,"8511 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8410 Greenwood Cir\,8410 Greenwood Cir\,,,,8410 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14642 W 85th Terrace, Lenexa, KS 66215\",14642 W 85th Terrace,Lenexa,KS,66215,"14642 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14914 W 84th St, Lenexa, KS 66215\",14914 W 84th St,Lenexa,KS,66215,"14914 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8322 Mullen Rd, Lenexa, KS 66215\",8322 Mullen Rd,Lenexa,KS,66215,"8322 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8348 Mullen Rd\,8348 Mullen Rd\,,,,8348 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14703 W 84th St\,14703 W 84th St\,,,,14703 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8528 Hallet St\,8528 Hallet St\,,,,8528 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8519 Alden St\,8519 Alden St\,,,,8519 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8415 Greenwood Cir\,8415 Greenwood Cir\,,,,8415 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8345 Greenwood Cir, Lenexa, KS 66215\",8345 Greenwood Cir,Lenexa,KS,66215,"8345 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14216 W 84th Terrace, Lenexa, KS 66215\",14216 W 84th Terrace,Lenexa,KS,66215,"14216 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8351 Hallet St, Lenexa, KS 66215\",8351 Hallet St,Lenexa,KS,66215,"8351 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14709 W 84th St\,14709 W 84th St\,,,,14709 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,7926 Hallet St\,7926 Hallet St\,,,,7926 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8337 Alden St\,8337 Alden St\,,,,8337 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8512 Hallet St\,8512 Hallet St\,,,,8512 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8526 Hallet St,8526 Hallet St,,,,8526 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8541 Greenwood Ln, Lenexa, KS 66215\",8541 Greenwood Ln,Lenexa,KS,66215,"8541 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8518 Hallet St\,8518 Hallet St\,,,,8518 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8330 Mullen Rd, Lenexa, KS 66215\",8330 Mullen Rd,Lenexa,KS,66215,"8330 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8613 Dice Ln\,8613 Dice Ln\,,,,8613 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8533 Constance St, Lenexa, KS 66215\",8533 Constance St,Lenexa,KS,66215,"8533 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8354 Hallet St\,8354 Hallet St\,,,,8354 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8358 Alden St, Lenexa, KS 66215\",8358 Alden St,Lenexa,KS,66215,"8358 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8410 Greenwood Cir, Lenexa, KS 66215\",8410 Greenwood Cir,Lenexa,KS,66215,"8410 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14330 W 86th Pl\,14330 W 86th Pl\,,,,14330 W 86th Pl\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8441 Acuff Ln\,8441 Acuff Ln\,,,,8441 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8354 Hallet St, Lenexa, KS 66215\",8354 Hallet St,Lenexa,KS,66215,"8354 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8523 Hallet St\,8523 Hallet St\,,,,8523 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14713 W 84th St, Lenexa, KS 66215\",14713 W 84th St,Lenexa,KS,66215,"14713 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14519 W 86th St, Lenexa, KS 66215\",14519 W 86th St,Lenexa,KS,66215,"14519 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14640 W 86th St, Lenexa, KS 66215\",14640 W 86th St,Lenexa,KS,66215,"14640 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8640 Greenway Ln, Lenexa, KS 66215\",8640 Greenway Ln,Lenexa,KS,66215,"8640 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8009 Hallet St, Lenexa, KS 66215\",8009 Hallet St,Lenexa,KS,66215,"8009 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8524 Greenwood Ln, Lenexa, KS 66215\",8524 Greenwood Ln,Lenexa,KS,66215,"8524 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8212 Acuff Ln
+Lenexa, KS 66215","8212 Acuff Ln
+Lenexa, KS 66215",,,,"8212 Acuff Ln
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8511 Darnell St\,8511 Darnell St\,,,,8511 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8525 Constance St\,8525 Constance St\,,,,8525 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8503 Hallet St,8503 Hallet St,,,,8503 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8362 Oakview Cir\,8362 Oakview Cir\,,,,8362 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8633 Greenway Ln\,8633 Greenway Ln\,,,,8633 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14813 W 83rd Terrace\,14813 W 83rd Terrace\,,,,14813 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8638 S Oakview Dr\,8638 S Oakview Dr\,,,,8638 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8354 Oakview Cir\,8354 Oakview Cir\,,,,8354 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8451 Dice Ln, Lenexa, KS 66215\",8451 Dice Ln,Lenexa,KS,66215,"8451 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8420 Greenwood Cir, Lenexa, KS 66215\",8420 Greenwood Cir,Lenexa,KS,66215,"8420 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8442 Acuff Ln\,8442 Acuff Ln\,,,,8442 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8336 Mullen Rd, Lenexa, KS 66215\",8336 Mullen Rd,Lenexa,KS,66215,"8336 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8414 Greenwood Cir\,8414 Greenwood Cir\,,,,8414 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8627 Acuff Ln, Lenexa, KS 66215\",8627 Acuff Ln,Lenexa,KS,66215,"8627 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8331 Oakview Cir\,8331 Oakview Cir\,,,,8331 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8616 Greenway Ln\,8616 Greenway Ln\,,,,8616 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14426 W 86th Terrace, Lenexa, KS 66215\",14426 W 86th Terrace,Lenexa,KS,66215,"14426 W 86th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14606 W 86th St, Lenexa, KS 66215\",14606 W 86th St,Lenexa,KS,66215,"14606 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8401 Acuff Ln, Lenexa, KS 66215\",8401 Acuff Ln,Lenexa,KS,66215,"8401 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14617 W 85th Terrace\,14617 W 85th Terrace\,,,,14617 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8621 Greenway Ln\,8621 Greenway Ln\,,,,8621 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8400 Greenwood Cir\,8400 Greenwood Cir\,,,,8400 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8609 Greenwood Ln, Lenexa, KS 66215\",8609 Greenwood Ln,Lenexa,KS,66215,"8609 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8415 Greenwood Cir, Lenexa, KS 66215\",8415 Greenwood Cir,Lenexa,KS,66215,"8415 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8637 S Oakview Dr\,8637 S Oakview Dr\,,,,8637 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8507 Constance St\,8507 Constance St\,,,,8507 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8016 Hallet St, Lenexa, KS 66215\",8016 Hallet St,Lenexa,KS,66215,"8016 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8333 Hallet St, Lenexa, KS 66215\",8333 Hallet St,Lenexa,KS,66215,"8333 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8525 Constance St, Lenexa, KS 66215\",8525 Constance St,Lenexa,KS,66215,"8525 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8537 Greenwood Ln\,8537 Greenwood Ln\,,,,8537 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14902 W 84th St, Lenexa, KS 66215\",14902 W 84th St,Lenexa,KS,66215,"14902 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8319 Acuff Ln\,8319 Acuff Ln\,,,,8319 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14235 W 84th Terrace, Lenexa, KS 66215\",14235 W 84th Terrace,Lenexa,KS,66215,"14235 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8435 Constance St, Lenexa, KS 66215\",8435 Constance St,Lenexa,KS,66215,"8435 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8519 Constance St, Lenexa, KS 66215\",8519 Constance St,Lenexa,KS,66215,"8519 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14817 W 84th Terrace, Lenexa, KS 66215\",14817 W 84th Terrace,Lenexa,KS,66215,"14817 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14812 W 84th Terrace\,14812 W 84th Terrace\,,,,14812 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8638 Dice Ln, Lenexa, KS 66215\",8638 Dice Ln,Lenexa,KS,66215,"8638 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8510 Hallet St\,8510 Hallet St\,,,,8510 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14630 W 85th Terrace, Lenexa, KS 66215\",14630 W 85th Terrace,Lenexa,KS,66215,"14630 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14640 W 86th St\,14640 W 86th St\,,,,14640 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8622 Greenwood Ln, Lenexa, KS 66215\",8622 Greenwood Ln,Lenexa,KS,66215,"8622 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8449 Alden St, Lenexa, KS 66215\",8449 Alden St,Lenexa,KS,66215,"8449 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14618 W 85th Terrace, Lenexa, KS 66215\",14618 W 85th Terrace,Lenexa,KS,66215,"14618 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8428 Greenwood Cir\,8428 Greenwood Cir\,,,,8428 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8370 Alden St\,8370 Alden St\,,,,8370 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14233 W 84th Terrace\,14233 W 84th Terrace\,,,,14233 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8328 Mullen Rd, Lenexa, KS 66215\",8328 Mullen Rd,Lenexa,KS,66215,"8328 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8305 Acuff Ln, Lenexa, KS 66215\",8305 Acuff Ln,Lenexa,KS,66215,"8305 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8021 Hallet St\,8021 Hallet St\,,,,8021 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8417 Greenwood Cir\,8417 Greenwood Cir\,,,,8417 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8543 S Oakview Dr\,8543 S Oakview Dr\,,,,8543 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8342 Oakview Cir, Lenexa, KS 66215\",8342 Oakview Cir,Lenexa,KS,66215,"8342 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14807 W 83rd Terrace, Lenexa, KS 66215\",14807 W 83rd Terrace,Lenexa,KS,66215,"14807 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8547 S Oakview Dr, Lenexa, KS 66215\",8547 S Oakview Dr,Lenexa,KS,66215,"8547 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8515 Hallet St\,8515 Hallet St\,,,,8515 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8369 Alden St\,8369 Alden St\,,,,8369 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8337 Hallet St\,8337 Hallet St\,,,,8337 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14407 W 84th Terrace\,14407 W 84th Terrace\,,,,14407 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8341 Mullen Rd\,8341 Mullen Rd\,,,,8341 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8519 Hallet St, Lenexa, KS 66215\",8519 Hallet St,Lenexa,KS,66215,"8519 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8525 Alden St, Lenexa, KS 66215\",8525 Alden St,Lenexa,KS,66215,"8525 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8523 Darnell St\,8523 Darnell St\,,,,8523 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14307 W 84th Terrace, Lenexa, KS 66215\",14307 W 84th Terrace,Lenexa,KS,66215,"14307 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8644 Dice Ln, Lenexa, KS 66215\",8644 Dice Ln,Lenexa,KS,66215,"8644 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8318 Acuff Ln, Lenexa, KS 66215\",8318 Acuff Ln,Lenexa,KS,66215,"8318 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,7934 Hallet St\,7934 Hallet St\,,,,7934 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14612 W 83rd Terrace\,14612 W 83rd Terrace\,,,,14612 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8421 Hallet St, Lenexa, KS 66215\",8421 Hallet St,Lenexa,KS,66215,"8421 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8344 Oakview Cir\,8344 Oakview Cir\,,,,8344 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8535 Hallet St\,8535 Hallet St\,,,,8535 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14308 W 84th Terrace\,14308 W 84th Terrace\,,,,14308 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8352 Oakview Cir, Lenexa, KS 66215\",8352 Oakview Cir,Lenexa,KS,66215,"8352 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14629 W 85th Terrace\,14629 W 85th Terrace\,,,,14629 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8602 Dice Ln\,8602 Dice Ln\,,,,8602 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14801 W 83rd Terrace\,14801 W 83rd Terrace\,,,,14801 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14607 W 83rd Terrace, Lenexa, KS 66215\",14607 W 83rd Terrace,Lenexa,KS,66215,"14607 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14612 W 86th St, Lenexa, KS 66215\",14612 W 86th St,Lenexa,KS,66215,"14612 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8630 S Oakview Dr\,8630 S Oakview Dr\,,,,8630 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8603 Greenway Ln\,8603 Greenway Ln\,,,,8603 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8307 Mullen Rd\,8307 Mullen Rd\,,,,8307 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14213 W 84th Terrace, Lenexa, KS 66215\",14213 W 84th Terrace,Lenexa,KS,66215,"14213 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8451 Dice Ln\,8451 Dice Ln\,,,,8451 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14236 W 84th Terrace\,14236 W 84th Terrace\,,,,14236 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8445 Hallet St, Lenexa, KS 66215\",8445 Hallet St,Lenexa,KS,66215,"8445 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8333 Acuff Ln, Lenexa, KS 66215\",8333 Acuff Ln,Lenexa,KS,66215,"8333 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8536 Hallet St\,8536 Hallet St\,,,,8536 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8317 Mullen Rd\,8317 Mullen Rd\,,,,8317 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8529 Alden St, Lenexa, KS 66215\",8529 Alden St,Lenexa,KS,66215,"8529 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8326 Mullen Rd, Lenexa, KS 66215\",8326 Mullen Rd,Lenexa,KS,66215,"8326 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14314 W 84th Terrace, Lenexa, KS 66215\",14314 W 84th Terrace,Lenexa,KS,66215,"14314 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8351 Hallet St\,8351 Hallet St\,,,,8351 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8501 Constance St\,8501 Constance St\,,,,8501 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8417 Hallet St
+Lenexa, KS 66215","8417 Hallet St
+Lenexa, KS 66215",,,,"8417 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8532 Hallet St, Lenexa, KS 66215\",8532 Hallet St,Lenexa,KS,66215,"8532 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8647 Alden St, Lenexa, KS 66215\",8647 Alden St,Lenexa,KS,66215,"8647 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8501 Constance St, Lenexa, KS 66215\",8501 Constance St,Lenexa,KS,66215,"8501 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8531 Hallet St,8531 Hallet St,,,,8531 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8416 Greenwood Cir, Lenexa, KS 66215\",8416 Greenwood Cir,Lenexa,KS,66215,"8416 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8404 Acuff Ln, Lenexa, KS 66215\",8404 Acuff Ln,Lenexa,KS,66215,"8404 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8425 Constance St\,8425 Constance St\,,,,8425 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8400 Acuff Ln\,8400 Acuff Ln\,,,,8400 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8327 Mullen Rd, Lenexa, KS 66215\",8327 Mullen Rd,Lenexa,KS,66215,"8327 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8606 S Oakview Dr, Lenexa, KS 66215\",8606 S Oakview Dr,Lenexa,KS,66215,"8606 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8004 Hallet St, Lenexa, KS 66215\",8004 Hallet St,Lenexa,KS,66215,"8004 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8625 Dice Ln, Lenexa, KS 66215\",8625 Dice Ln,Lenexa,KS,66215,"8625 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8414 Greenwood Cir, Lenexa, KS 66215\",8414 Greenwood Cir,Lenexa,KS,66215,"8414 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8535 Darnell St, Lenexa, KS 66215\",8535 Darnell St,Lenexa,KS,66215,"8535 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8335 Acuff Ln\,8335 Acuff Ln\,,,,8335 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8519 Alden St, Lenexa, KS 66215\",8519 Alden St,Lenexa,KS,66215,"8519 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8341 Alden St, Lenexa, KS 66215\",8341 Alden St,Lenexa,KS,66215,"8341 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14712 W 84th St, Lenexa, KS 66215\",14712 W 84th St,Lenexa,KS,66215,"14712 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8614 Acuff Ln\,8614 Acuff Ln\,,,,8614 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8617 Alden St, Lenexa, KS 66215\",8617 Alden St,Lenexa,KS,66215,"8617 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8526 Hallet St
+Lenexa, KS 66215","8526 Hallet St
+Lenexa, KS 66215",,,,"8526 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8310 Mullen Rd\,8310 Mullen Rd\,,,,8310 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8344 Mullen Rd, Lenexa, KS 66215\",8344 Mullen Rd,Lenexa,KS,66215,"8344 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8422 Hallet St, Lenexa, KS 66215\",8422 Hallet St,Lenexa,KS,66215,"8422 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14622 W 85th Terrace, Lenexa, KS 66215\",14622 W 85th Terrace,Lenexa,KS,66215,"14622 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8430 Acuff Ln\,8430 Acuff Ln\,,,,8430 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8417 Hallet St,8417 Hallet St,,,,8417 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8627 Greenway Ln, Lenexa, KS 66215\",8627 Greenway Ln,Lenexa,KS,66215,"8627 Greenway Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8321 Alden St, Lenexa, KS 66215\",8321 Alden St,Lenexa,KS,66215,"8321 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8341 Oakview Cir\,8341 Oakview Cir\,,,,8341 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14625 W 86th St, Lenexa, KS 66215\",14625 W 86th St,Lenexa,KS,66215,"14625 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14237 W 84th Terrace, Lenexa, KS 66215\",14237 W 84th Terrace,Lenexa,KS,66215,"14237 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8540 S Oakview Dr, Lenexa, KS 66215\",8540 S Oakview Dr,Lenexa,KS,66215,"8540 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8438 Hallet St\,8438 Hallet St\,,,,8438 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8356 Oakview Cir, Lenexa, KS 66215\",8356 Oakview Cir,Lenexa,KS,66215,"8356 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8610 S Oakview Dr\,8610 S Oakview Dr\,,,,8610 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8622 Greenwood Ln\,8622 Greenwood Ln\,,,,8622 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8642 S Oakview Dr\,8642 S Oakview Dr\,,,,8642 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8338 Greenwood Cir\,8338 Greenwood Cir\,,,,8338 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14216 W 84th Terrace\,14216 W 84th Terrace\,,,,14216 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14908 W 84th St, Lenexa, KS 66215\",14908 W 84th St,Lenexa,KS,66215,"14908 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8633 S Oakview Dr, Lenexa, KS 66215\",8633 S Oakview Dr,Lenexa,KS,66215,"8633 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14624 W 83rd Terrace, Lenexa, KS 66215\",14624 W 83rd Terrace,Lenexa,KS,66215,"14624 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8340 Mullen Rd, Lenexa, KS 66215\",8340 Mullen Rd,Lenexa,KS,66215,"8340 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8423 Greenwood Cir, Lenexa, KS 66215\",8423 Greenwood Cir,Lenexa,KS,66215,"8423 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8409 Greenwood Cir, Lenexa, KS 66215\",8409 Greenwood Cir,Lenexa,KS,66215,"8409 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8632 Dice Ln\,8632 Dice Ln\,,,,8632 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14619 W 83rd Terrace\,14619 W 83rd Terrace\,,,,14619 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14637 W 85th Terrace, Lenexa, KS 66215\",14637 W 85th Terrace,Lenexa,KS,66215,"14637 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8332 Oakview Cir\,8332 Oakview Cir\,,,,8332 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8530 Alden St\,8530 Alden St\,,,,8530 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8629 Alden St, Lenexa, KS 66215\",8629 Alden St,Lenexa,KS,66215,"8629 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14629 W 84th St, Lenexa, KS 66215\",14629 W 84th St,Lenexa,KS,66215,"14629 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8616 Greenwood Ln\,8616 Greenwood Ln\,,,,8616 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14903 W 84th St\,14903 W 84th St\,,,,14903 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8013 Hallet St\,8013 Hallet St\,,,,8013 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8347 Acuff Ln\,8347 Acuff Ln\,,,,8347 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"7926 Hallet St, Lenexa, KS 66215\",7926 Hallet St,Lenexa,KS,66215,"7926 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8519 Darnell St, Lenexa, KS 66215\",8519 Darnell St,Lenexa,KS,66215,"8519 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8341 Greenwood Cir\,8341 Greenwood Cir\,,,,8341 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8324 Acuff Ln, Lenexa, KS 66215\",8324 Acuff Ln,Lenexa,KS,66215,"8324 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8425 Greenwood Cir\,8425 Greenwood Cir\,,,,8425 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8625 S Oakview Dr\,8625 S Oakview Dr\,,,,8625 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8640 Greenway Ln\,8640 Greenway Ln\,,,,8640 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14914 W 84th Terrace, Lenexa, KS 66215\",14914 W 84th Terrace,Lenexa,KS,66215,"14914 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14801 W 84th St\,14801 W 84th St\,,,,14801 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8533 Greenwood Ln\,8533 Greenwood Ln\,,,,8533 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8016 Hallet St\,8016 Hallet St\,,,,8016 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8315 Mullen Rd\,8315 Mullen Rd\,,,,8315 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14804 W 84th Terrace, Lenexa, KS 66215\",14804 W 84th Terrace,Lenexa,KS,66215,"14804 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8531 Hallet St
+Lenexa, KS 66215","8531 Hallet St
+Lenexa, KS 66215",,,,"8531 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8604 Hallet St, Lenexa, KS 66215\",8604 Hallet St,Lenexa,KS,66215,"8604 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14430 W 86th Terrace\,14430 W 86th Terrace\,,,,14430 W 86th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8341 Hallet St, Lenexa, KS 66215\",8341 Hallet St,Lenexa,KS,66215,"8341 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8320 Mullen Rd, Lenexa, KS 66215\",8320 Mullen Rd,Lenexa,KS,66215,"8320 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8344 Acuff Ln\,8344 Acuff Ln\,,,,8344 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14201 W 84th Terrace, Lenexa, KS 66215\",14201 W 84th Terrace,Lenexa,KS,66215,"14201 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8319 Mullen Rd, Lenexa, KS 66215\",8319 Mullen Rd,Lenexa,KS,66215,"8319 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8335 Alden St\,8335 Alden St\,,,,8335 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14326 W 84th Terrace, Lenexa, KS 66215\",14326 W 84th Terrace,Lenexa,KS,66215,"14326 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14637 W 85th Terrace\,14637 W 85th Terrace\,,,,14637 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8364 Alden St, Lenexa, KS 66215\",8364 Alden St,Lenexa,KS,66215,"8364 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14915 W 84th St, Lenexa, KS 66215\",14915 W 84th St,Lenexa,KS,66215,"14915 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8427 Greenwood Cir\,8427 Greenwood Cir\,,,,8427 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14624 W 83rd Terrace\,14624 W 83rd Terrace\,,,,14624 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14237 W 84th Terrace\,14237 W 84th Terrace\,,,,14237 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8412 Acuff Ln\,8412 Acuff Ln\,,,,8412 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14612 W 83rd Terrace, Lenexa, KS 66215\",14612 W 83rd Terrace,Lenexa,KS,66215,"14612 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14241 W 84th Terrace, Lenexa, KS 66215\",14241 W 84th Terrace,Lenexa,KS,66215,"14241 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8445 Hallet St\,8445 Hallet St\,,,,8445 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8349 Mullen Rd\,8349 Mullen Rd\,,,,8349 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8355 Oakview Cir, Lenexa, KS 66215\",8355 Oakview Cir,Lenexa,KS,66215,"8355 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8342 Greenwood Cir\,8342 Greenwood Cir\,,,,8342 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8546 S Oakview Dr\,8546 S Oakview Dr\,,,,8546 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8625 S Oakview Dr, Lenexa, KS 66215\",8625 S Oakview Dr,Lenexa,KS,66215,"8625 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14500 W 86th St, Lenexa, KS 66215\",14500 W 86th St,Lenexa,KS,66215,"14500 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8352 Acuff Ln, Lenexa, KS 66215\",8352 Acuff Ln,Lenexa,KS,66215,"8352 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8507 Hallet St
+Lenexa, KS 66215","8507 Hallet St
+Lenexa, KS 66215",,,,"8507 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14314 W 84th Terrace\,14314 W 84th Terrace\,,,,14314 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8012 Hallet St, Lenexa, KS 66215\",8012 Hallet St,Lenexa,KS,66215,"8012 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14638 W 85th Terrace\,14638 W 85th Terrace\,,,,14638 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8357 Acuff Ln, Lenexa, KS 66215\",8357 Acuff Ln,Lenexa,KS,66215,"8357 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14431 W 84th Terrace, Lenexa, KS 66215\",14431 W 84th Terrace,Lenexa,KS,66215,"14431 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14617 W 84th St\,14617 W 84th St\,,,,14617 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8408 Acuff Ln, Lenexa, KS 66215\",8408 Acuff Ln,Lenexa,KS,66215,"8408 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8528 Hallet St, Lenexa, KS 66215\",8528 Hallet St,Lenexa,KS,66215,"8528 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8547 S Oakview Dr\,8547 S Oakview Dr\,,,,8547 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14812 W 84th Terrace, Lenexa, KS 66215\",14812 W 84th Terrace,Lenexa,KS,66215,"14812 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14621 W 84th St\,14621 W 84th St\,,,,14621 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14139 W 84th Terrace\,14139 W 84th Terrace\,,,,14139 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8338 Hallet St\,8338 Hallet St\,,,,8338 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8511 Darnell St, Lenexa, KS 66215\",8511 Darnell St,Lenexa,KS,66215,"8511 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14636 W 83rd Terrace\,14636 W 83rd Terrace\,,,,14636 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14412 W 84th Terrace\,14412 W 84th Terrace\,,,,14412 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8335 Oakview Cir, Lenexa, KS 66215\",8335 Oakview Cir,Lenexa,KS,66215,"8335 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8419 Greenwood Cir\,8419 Greenwood Cir\,,,,8419 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8355 Hallet St\,8355 Hallet St\,,,,8355 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14805 W 84th Terrace, Lenexa, KS 66215\",14805 W 84th Terrace,Lenexa,KS,66215,"14805 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8622 Acuff Ln\,8622 Acuff Ln\,,,,8622 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14639 W 86th St\,14639 W 86th St\,,,,14639 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8515 Alden St, Lenexa, KS 66215\",8515 Alden St,Lenexa,KS,66215,"8515 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8512 Darnell St, Lenexa, KS 66215\",8512 Darnell St,Lenexa,KS,66215,"8512 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8425 Hallet St, Lenexa, KS 66215\",8425 Hallet St,Lenexa,KS,66215,"8425 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8441 Hallet St, Lenexa, KS 66215\",8441 Hallet St,Lenexa,KS,66215,"8441 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14621 W 85th Terrace\,14621 W 85th Terrace\,,,,14621 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14609 W 83rd Terrace, Lenexa, KS 66215\",14609 W 83rd Terrace,Lenexa,KS,66215,"14609 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8017 Hallet St\,8017 Hallet St\,,,,8017 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8340 Acuff Ln, Lenexa, KS 66215\",8340 Acuff Ln,Lenexa,KS,66215,"8340 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8341 Acuff Ln\,8341 Acuff Ln\,,,,8341 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8534 Alden Ln, Lenexa, KS 66215\",8534 Alden Ln,Lenexa,KS,66215,"8534 Alden Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14225 W 84th Terrace, Lenexa, KS 66215\",14225 W 84th Terrace,Lenexa,KS,66215,"14225 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14622 W 86th St, Lenexa, KS 66215\",14622 W 86th St,Lenexa,KS,66215,"14622 W 86th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8341 Hallet St\,8341 Hallet St\,,,,8341 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14606 W 86th St\,14606 W 86th St\,,,,14606 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8361 Acuff Ln\,8361 Acuff Ln\,,,,8361 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8356 Hallet St\,8356 Hallet St\,,,,8356 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8605 Greenwood Ln, Lenexa, KS 66215\",8605 Greenwood Ln,Lenexa,KS,66215,"8605 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8420 Greenwood Cir\,8420 Greenwood Cir\,,,,8420 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8501 Dice Ln\,8501 Dice Ln\,,,,8501 Dice Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8357 Acuff Ln\,8357 Acuff Ln\,,,,8357 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8504 Hallet St, Lenexa, KS 66215\",8504 Hallet St,Lenexa,KS,66215,"8504 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8413 Greenwood Cir, Lenexa, KS 66215\",8413 Greenwood Cir,Lenexa,KS,66215,"8413 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14818 W 84th Terrace, Lenexa, KS 66215\",14818 W 84th Terrace,Lenexa,KS,66215,"14818 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8538 Alden St, Lenexa, KS 66215\",8538 Alden St,Lenexa,KS,66215,"8538 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8437 Hallet St, Lenexa, KS 66215\",8437 Hallet St,Lenexa,KS,66215,"8437 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8345 Hallet St, Lenexa, KS 66215\",8345 Hallet St,Lenexa,KS,66215,"8345 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14414 W 86th Terrace, Lenexa, KS 66215\",14414 W 86th Terrace,Lenexa,KS,66215,"14414 W 86th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8356 Oakview Cir\,8356 Oakview Cir\,,,,8356 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8635 Alden St, Lenexa, KS 66215\",8635 Alden St,Lenexa,KS,66215,"8635 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8433 Hallet St
+Lenexa, KS 66215","8433 Hallet St
+Lenexa, KS 66215",,,,"8433 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8024 Hallet St\,8024 Hallet St\,,,,8024 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8411 Greenwood Cir, Lenexa, KS 66215\",8411 Greenwood Cir,Lenexa,KS,66215,"8411 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8421 Greenwood Cir, Lenexa, KS 66215\",8421 Greenwood Cir,Lenexa,KS,66215,"8421 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14424 W 84th Terrace\,14424 W 84th Terrace\,,,,14424 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8326 Greenwood Cir, Lenexa, KS 66215\",8326 Greenwood Cir,Lenexa,KS,66215,"8326 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8597 Dice Ln, Lenexa, KS 66215\",8597 Dice Ln,Lenexa,KS,66215,"8597 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8339 Hallet St, Lenexa, KS 66215\",8339 Hallet St,Lenexa,KS,66215,"8339 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14626 W 84th St\,14626 W 84th St\,,,,14626 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14239 W 84th Terrace, Lenexa, KS 66215\",14239 W 84th Terrace,Lenexa,KS,66215,"14239 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8404 Greenwood Cir, Lenexa, KS 66215\",8404 Greenwood Cir,Lenexa,KS,66215,"8404 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8626 S Oakview Dr, Lenexa, KS 66215\",8626 S Oakview Dr,Lenexa,KS,66215,"8626 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8441 Hallet St
+Lenexa, KS 66215","8441 Hallet St
+Lenexa, KS 66215",,,,"8441 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8430 Hallet St\,8430 Hallet St\,,,,8430 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8301 Mullen Rd, Lenexa, KS 66215\",8301 Mullen Rd,Lenexa,KS,66215,"8301 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8363 Alden St\,8363 Alden St\,,,,8363 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14909 W 84th St, Lenexa, KS 66215\",14909 W 84th St,Lenexa,KS,66215,"14909 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8629 Alden St\,8629 Alden St\,,,,8629 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8338 Oakview Cir, Lenexa, KS 66215\",8338 Oakview Cir,Lenexa,KS,66215,"8338 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8529 Greenwood Ln\,8529 Greenwood Ln\,,,,8529 Greenwood Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14618 W 83rd Terrace, Lenexa, KS 66215\",14618 W 83rd Terrace,Lenexa,KS,66215,"14618 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8530 Darnell St, Lenexa, KS 66215\",8530 Darnell St,Lenexa,KS,66215,"8530 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8633 S Oakview Dr\,8633 S Oakview Dr\,,,,8633 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14807 W 84th St, Lenexa, KS 66215\",14807 W 84th St,Lenexa,KS,66215,"14807 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8355 Oakview Cir\,8355 Oakview Cir\,,,,8355 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8507 Hallet St, Lenexa, KS 66215\",8507 Hallet St,Lenexa,KS,66215,"8507 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14225 W 84th Terrace\,14225 W 84th Terrace\,,,,14225 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8425 Hallet St\,8425 Hallet St\,,,,8425 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8337 Acuff Ln, Lenexa, KS 66215\",8337 Acuff Ln,Lenexa,KS,66215,"8337 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8501 Dice Ln, Lenexa, KS 66215\",8501 Dice Ln,Lenexa,KS,66215,"8501 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8336 Mullen Rd\,8336 Mullen Rd\,,,,8336 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8329 Greenwood Cir\,8329 Greenwood Cir\,,,,8329 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8626 Acuff Ln\,8626 Acuff Ln\,,,,8626 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8507 Darnell St, Lenexa, KS 66215\",8507 Darnell St,Lenexa,KS,66215,"8507 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8451 Constance St, Lenexa, KS 66215\",8451 Constance St,Lenexa,KS,66215,"8451 Constance St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8307 Acuff Ln\,8307 Acuff Ln\,,,,8307 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14630 W 85th Terrace\,14630 W 85th Terrace\,,,,14630 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8523 Hallet St,8523 Hallet St,,,,8523 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8334 Mullen Rd, Lenexa, KS 66215\",8334 Mullen Rd,Lenexa,KS,66215,"8334 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8435 Constance St\,8435 Constance St\,,,,8435 Constance St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8311 Mullen Rd\,8311 Mullen Rd\,,,,8311 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8433 Hallet St\,8433 Hallet St\,,,,8433 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8434 Hallet St, Lenexa, KS 66215\",8434 Hallet St,Lenexa,KS,66215,"8434 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8516 Darnell St\,8516 Darnell St\,,,,8516 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8548 S Oakview Dr\,8548 S Oakview Dr\,,,,8548 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8360 Hallet St\,8360 Hallet St\,,,,8360 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14608 W 83rd Terrace, Lenexa, KS 66215\",14608 W 83rd Terrace,Lenexa,KS,66215,"14608 W 83rd Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8401 Greenwood Cir\,8401 Greenwood Cir\,,,,8401 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8515 Darnell St\,8515 Darnell St\,,,,8515 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14222 W 84th Terrace, Lenexa, KS 66215\",14222 W 84th Terrace,Lenexa,KS,66215,"14222 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14507 W 86th St\,14507 W 86th St\,,,,14507 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8338 Oakview Cir\,8338 Oakview Cir\,,,,8338 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14703 W 84th St, Lenexa, KS 66215\",14703 W 84th St,Lenexa,KS,66215,"14703 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8349 Acuff Ln\,8349 Acuff Ln\,,,,8349 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8329 Greenwood Cir, Lenexa, KS 66215\",8329 Greenwood Cir,Lenexa,KS,66215,"8329 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14914 W 84th St\,14914 W 84th St\,,,,14914 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8517 Alden St\,8517 Alden St\,,,,8517 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8534 Hallet St, Lenexa, KS 66215\",8534 Hallet St,Lenexa,KS,66215,"8534 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8543 S Oakview Dr, Lenexa, KS 66215\",8543 S Oakview Dr,Lenexa,KS,66215,"8543 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8310 Acuff Ln, Lenexa, KS 66215\",8310 Acuff Ln,Lenexa,KS,66215,"8310 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14642 W 85th Terrace\,14642 W 85th Terrace\,,,,14642 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8402 Mullen Rd, Lenexa, KS 66215\",8402 Mullen Rd,Lenexa,KS,66215,"8402 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8602 Greenwood Ln, Lenexa, KS 66215\",8602 Greenwood Ln,Lenexa,KS,66215,"8602 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14133 W 84th Terrace, Lenexa, KS 66215\",14133 W 84th Terrace,Lenexa,KS,66215,"14133 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8339 Oakview Cir\,8339 Oakview Cir\,,,,8339 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8529 Alden St\,8529 Alden St\,,,,8529 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8343 Alden St, Lenexa, KS 66215\",8343 Alden St,Lenexa,KS,66215,"8343 Alden St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8405 Mullen Rd\,8405 Mullen Rd\,,,,8405 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8417 Hallet St\,8417 Hallet St\,,,,8417 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8634 S Oakview Dr, Lenexa, KS 66215\",8634 S Oakview Dr,Lenexa,KS,66215,"8634 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8330 Greenwood Cir, Lenexa, KS 66215\",8330 Greenwood Cir,Lenexa,KS,66215,"8330 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8442 Darnell St, Lenexa, KS 66215\",8442 Darnell St,Lenexa,KS,66215,"8442 Darnell St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14139 W 84th Terrace, Lenexa, KS 66215\",14139 W 84th Terrace,Lenexa,KS,66215,"14139 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14418 W 86th Terrace, Lenexa, KS 66215\",14418 W 86th Terrace,Lenexa,KS,66215,"14418 W 86th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8318 Mullen Rd, Lenexa, KS 66215\",8318 Mullen Rd,Lenexa,KS,66215,"8318 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8337 Greenwood Cir, Lenexa, KS 66215\",8337 Greenwood Cir,Lenexa,KS,66215,"8337 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8332 Oakview Cir, Lenexa, KS 66215\",8332 Oakview Cir,Lenexa,KS,66215,"8332 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8331 Oakview Cir, Lenexa, KS 66215\",8331 Oakview Cir,Lenexa,KS,66215,"8331 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14706 W 84th St, Lenexa, KS 66215\",14706 W 84th St,Lenexa,KS,66215,"14706 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8341 Alden St\,8341 Alden St\,,,,8341 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8519 Darnell St\,8519 Darnell St\,,,,8519 Darnell St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8619 Acuff Ln\,8619 Acuff Ln\,,,,8619 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8515 Hallet St
+Lenexa, KS 66215","8515 Hallet St
+Lenexa, KS 66215",,,,"8515 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8357 Oakview Cir\,8357 Oakview Cir\,,,,8357 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14204 W 84th Terrace, Lenexa, KS 66215\",14204 W 84th Terrace,Lenexa,KS,66215,"14204 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8338 Hallet St, Lenexa, KS 66215\",8338 Hallet St,Lenexa,KS,66215,"8338 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14630 W 83rd Terrace\,14630 W 83rd Terrace\,,,,14630 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8321 Greenwood Cir, Lenexa, KS 66215\",8321 Greenwood Cir,Lenexa,KS,66215,"8321 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8500 Hallet St, Lenexa, KS 66215\",8500 Hallet St,Lenexa,KS,66215,"8500 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8631 Acuff Ln\,8631 Acuff Ln\,,,,8631 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14629 W 85th Terrace, Lenexa, KS 66215\",14629 W 85th Terrace,Lenexa,KS,66215,"14629 W 85th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8416 Greenwood Cir\,8416 Greenwood Cir\,,,,8416 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8606 Hallet St\,8606 Hallet St\,,,,8606 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14915 W 84th Terrace\,14915 W 84th Terrace\,,,,14915 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8539 S Oakview Dr, Lenexa, KS 66215\",8539 S Oakview Dr,Lenexa,KS,66215,"8539 S Oakview Dr, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8511 Hallet St,8511 Hallet St,,,,8511 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8522 Alden St\,8522 Alden St\,,,,8522 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8537 Greenwood Ln, Lenexa, KS 66215\",8537 Greenwood Ln,Lenexa,KS,66215,"8537 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8525 Alden St\,8525 Alden St\,,,,8525 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14403 W 86th Pl\,14403 W 86th Pl\,,,,14403 W 86th Pl\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14618 W 85th Terrace\,14618 W 85th Terrace\,,,,14618 W 85th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8347 Mullen Rd\,8347 Mullen Rd\,,,,8347 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8638 Greenwood Ln, Lenexa, KS 66215\",8638 Greenwood Ln,Lenexa,KS,66215,"8638 Greenwood Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8536 Hallet St, Lenexa, KS 66215\",8536 Hallet St,Lenexa,KS,66215,"8536 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8360 Oakview Cir, Lenexa, KS 66215\",8360 Oakview Cir,Lenexa,KS,66215,"8360 Oakview Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8502 Hallet St, Lenexa, KS 66215\",8502 Hallet St,Lenexa,KS,66215,"8502 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14721 W 83rd Terrace\,14721 W 83rd Terrace\,,,,14721 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8024 Hallet St, Lenexa, KS 66215\",8024 Hallet St,Lenexa,KS,66215,"8024 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8441 Hallet St,8441 Hallet St,,,,8441 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8333 Hallet St\,8333 Hallet St\,,,,8333 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14632 W 84th St, Lenexa, KS 66215\",14632 W 84th St,Lenexa,KS,66215,"14632 W 84th St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8323 Mullen Rd\,8323 Mullen Rd\,,,,8323 Mullen Rd\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8324 Mullen Rd, Lenexa, KS 66215\",8324 Mullen Rd,Lenexa,KS,66215,"8324 Mullen Rd, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8622 S Oakview Dr\,8622 S Oakview Dr\,,,,8622 S Oakview Dr\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8325 Greenwood Cir\,8325 Greenwood Cir\,,,,8325 Greenwood Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14618 W 83rd Terrace\,14618 W 83rd Terrace\,,,,14618 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8614 Dice Ln, Lenexa, KS 66215\",8614 Dice Ln,Lenexa,KS,66215,"8614 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8400 Acuff Ln, Lenexa, KS 66215\",8400 Acuff Ln,Lenexa,KS,66215,"8400 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8637 Dice Ln, Lenexa, KS 66215\",8637 Dice Ln,Lenexa,KS,66215,"8637 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14204 W 84th Terrace\,14204 W 84th Terrace\,,,,14204 W 84th Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14633 W 84th St\,14633 W 84th St\,,,,14633 W 84th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8008 Hallet St\,8008 Hallet St\,,,,8008 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8438 Acuff Ln, Lenexa, KS 66215\",8438 Acuff Ln,Lenexa,KS,66215,"8438 Acuff Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8335 Oakview Cir\,8335 Oakview Cir\,,,,8335 Oakview Cir\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8424 Greenwood Cir, Lenexa, KS 66215\",8424 Greenwood Cir,Lenexa,KS,66215,"8424 Greenwood Cir, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14207 W 84th Terrace, Lenexa, KS 66215\",14207 W 84th Terrace,Lenexa,KS,66215,"14207 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8324 Acuff Ln\,8324 Acuff Ln\,,,,8324 Acuff Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"14315 W 84th Terrace, Lenexa, KS 66215\",14315 W 84th Terrace,Lenexa,KS,66215,"14315 W 84th Terrace, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14600 W 86th St\,14600 W 86th St\,,,,14600 W 86th St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8360 Hallet St, Lenexa, KS 66215\",8360 Hallet St,Lenexa,KS,66215,"8360 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8500 Hallet St\,8500 Hallet St\,,,,8500 Hallet St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8627 Greenway Ln\,8627 Greenway Ln\,,,,8627 Greenway Ln\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8617 Alden St\,8617 Alden St\,,,,8617 Alden St\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,14819 W 83rd Terrace\,14819 W 83rd Terrace\,,,,14819 W 83rd Terrace\,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,8425 Hallet St,8425 Hallet St,,,,8425 Hallet St,Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8503 Hallet St
+Lenexa, KS 66215","8503 Hallet St
+Lenexa, KS 66215",,,,"8503 Hallet St
+Lenexa, KS 66215",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8602 Dice Ln, Lenexa, KS 66215\",8602 Dice Ln,Lenexa,KS,66215,"8602 Dice Ln, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
+,"8414 Hallet St, Lenexa, KS 66215\",8414 Hallet St,Lenexa,KS,66215,"8414 Hallet St, Lenexa, KS 66215\",Google Maps Agent - Google Maps List,2025-07-22,22:05:00
