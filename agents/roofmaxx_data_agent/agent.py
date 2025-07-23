@@ -20,19 +20,25 @@ from config.env import load_env
 load_env()
 
 from supabase import create_client, Client
+from src.services.supabase.client import SupabaseService
+
+# Import visualizations module
+from .visualizations import RoofMaxxVisualizations
 
 class RoofMaxxDataAgent:
     """
     Your conversational business intelligence agent for RoofMaxx deal data.
     
-    Can answer questions, generate reports, and provide insights about your 868 deals!
+    Can answer questions, generate reports, and create interactive D3.js visualizations!
     """
     
     def __init__(self):
         """Initialize the data agent."""
         self.name = "RoofMaxx Data Agent"
-        self.version = "1.0"
+        self.version = "2.0"
         self.client = None
+        self.supabase_service = None
+        self.visualizations = None
         self.deals_data = None
         self.last_query_time = None
         
@@ -43,6 +49,15 @@ class RoofMaxxDataAgent:
             url = os.getenv('SUPABASE_URL')
             key = os.getenv('SUPABASE_SERVICE_ROLE_KEY')
             self.client = create_client(url, key)
+            
+            # Initialize Supabase service for visualizations
+            supabase_config = {
+                'url': url,
+                'access_token': key
+            }
+            self.supabase_service = SupabaseService(supabase_config)
+            self.visualizations = RoofMaxxVisualizations(self.supabase_service)
+            
             print("✅ Connected to Supabase database")
         except Exception as e:
             print(f"❌ Database connection failed: {e}")
@@ -53,6 +68,7 @@ class RoofMaxxDataAgent:
         
         print(f"🎯 Ready! I have access to {len(self.deals_data) if self.deals_data else 0} deals")
         print("💬 Ask me anything about your business data!")
+        print("📊 NEW: I can now generate interactive D3.js charts!")
     
     def _load_deal_data(self):
         """Load and process deal data from Supabase."""
@@ -138,8 +154,18 @@ class RoofMaxxDataAgent:
         
         query_lower = query.lower()
         
+        # D3.js Visualization commands
+        if any(word in query_lower for word in ['timeline', 'line chart', 'multi-line', 'time series']):
+            return self._generate_timeline_chart(query)
+        
+        elif any(word in query_lower for word in ['pie chart', 'source chart', 'deal types']):
+            return self._generate_pie_chart(query)
+        
+        elif any(word in query_lower for word in ['d3', 'interactive', 'visualization', 'chart']):
+            return self._show_visualization_help()
+        
         # Source/Lead analysis
-        if any(word in query_lower for word in ['source', 'sources', 'lead', 'leads', 'where', 'come from']):
+        elif any(word in query_lower for word in ['source', 'sources', 'lead', 'leads', 'where', 'come from']):
             return self._analyze_sources()
         
         # City/Geographic analysis
@@ -780,12 +806,117 @@ class RoofMaxxDataAgent:
         
         return html
     
+    def _generate_timeline_chart(self, query):
+        """Generate interactive timeline chart."""
+        print("🎨 Generating D3.js timeline chart...")
+        
+        try:
+            result = self.visualizations.generate_timeline_chart()
+            
+            if result['success']:
+                return f"""✅ **Interactive Timeline Chart Generated!**
+
+📊 **Chart Features:**
+• Multi-line chart showing total deals, non-billable leads, and percentages
+• Interactive time period filters (Daily/Weekly/Monthly)
+• Date range selector
+• Hover tooltips with detailed data
+• Responsive design
+
+📁 **Saved to:** `{result['file_path']}`
+📈 **Data Points:** {result['data_points']} days
+🎯 **Chart Type:** {result['chart_type']}
+
+🌐 **Open in Browser:** file://{os.path.abspath(result['file_path'])}
+
+**What it shows:**
+1. 🔵 **Total Deals** - All deals created over time
+2. 🔴 **Non-Billable Leads** - GRML, SG, DDSM, MICRO deals
+3. 🟢 **Non-Billable %** - Percentage of non-billable leads
+
+Use the controls to filter by time period and date range!"""
+            else:
+                return f"❌ Failed to generate timeline chart: {result.get('error', 'Unknown error')}"
+                
+        except Exception as e:
+            return f"❌ Error generating timeline chart: {e}"
+    
+    def _generate_pie_chart(self, query):
+        """Generate interactive pie chart."""
+        print("🎨 Generating D3.js pie chart...")
+        
+        try:
+            result = self.visualizations.generate_deals_pie_chart()
+            
+            if result['success']:
+                return f"""✅ **Interactive Pie Chart Generated!**
+
+🥧 **Chart Features:**
+• Interactive pie chart of deals by source type
+• Hover tooltips with counts and percentages
+• Color-coded legend
+• Smooth animations
+• Click interactions
+
+📁 **Saved to:** `{result['file_path']}`
+📈 **Data Points:** {result['data_points']} deal types
+🎯 **Chart Type:** {result['chart_type']}
+
+🌐 **Open in Browser:** file://{os.path.abspath(result['file_path'])}
+
+**What it shows:**
+• NAP, NAP-L, NAP-S (Door-to-door)
+• RMCL, RMCL-F (Corporate leads)
+• GRML, SG, DDSM, MICRO (Digital/other)
+
+Hover over slices to see detailed breakdowns!"""
+            else:
+                return f"❌ Failed to generate pie chart: {result.get('error', 'Unknown error')}"
+                
+        except Exception as e:
+            return f"❌ Error generating pie chart: {e}"
+    
+    def _show_visualization_help(self):
+        """Show visualization commands help."""
+        return """📊 **D3.js Interactive Visualizations**
+
+**Available Charts:**
+
+🎯 **Timeline Chart** (Multi-line)
+• Command: "generate timeline chart" or "create line chart"
+• Shows: Total deals, non-billable leads, percentages over time
+• Features: Time period filters, date range selector, interactive tooltips
+
+🥧 **Pie Chart** (Deal Sources)
+• Command: "generate pie chart" or "create source chart"
+• Shows: Deals breakdown by source type (NAP, RMCL, GRML, etc.)
+• Features: Interactive slices, hover details, animated transitions
+
+**Example Commands:**
+• "Create a timeline chart"
+• "Generate pie chart of deal types"
+• "Show me an interactive line chart"
+• "Make a D3 visualization"
+
+**Output:**
+• Professional HTML files with embedded D3.js
+• Saved to `data/visualizations/roofmaxx/`
+• Open directly in your browser
+• Fully interactive and responsive
+
+All charts are branded with the RoofMaxx Data Agent and include professional styling!"""
+    
     def _show_help(self):
         """Show help and available commands."""
         return """
 🤖 **RoofMaxx Data Agent Help**
 
 **What can I do for you?**
+
+📊 **Interactive D3.js Visualizations:**
+• "Generate timeline chart" - Multi-line chart with filters
+• "Create pie chart" - Interactive deal sources breakdown
+• "D3 visualization" - Show visualization options
 
 📊 **Data Analysis:**
 • "Show me deal sources" - Analyze lead sources
@@ -811,6 +942,7 @@ class RoofMaxxDataAgent:
 • "How many deals do we have in Kansas City?"
 • "What's our completion rate?"
 • "Show me deals from NAP source"
+• "Create an interactive timeline chart"
 """
     
     def _general_response(self, query):
@@ -824,6 +956,7 @@ Try asking me about:
 • Deal stages and pipeline
 • Performance metrics
 • HTML report generation
+• D3.js visualizations
 
 Type "help" to see all available commands!
         """
