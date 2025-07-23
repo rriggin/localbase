@@ -9,19 +9,21 @@ LocalBase is a collection of **AI MCP (Model Context Protocol) agents** and **pr
 ## 🎯 Current Services & Agents
 
 ### 🔗 Service Integrations
-| Service | Purpose | Status | API Coverage |
-|---------|---------|--------|--------------|
-| **Airtable** | CRM data management and lead tracking | ✅ Full | Complete CRUD operations |
-| **Supabase** | Call log storage and analytics | ✅ Full | Real-time data sync |
-| **RoofMaxx Connect** | Dealer management and lead tracking | ✅ Full | 4,852 dealers, pagination, search |
-| **Zapier** | Workflow automation and webhooks | ✅ Core | Webhook triggers, batch processing |
-| **Clay.com** | Data enrichment workflows | 🔄 Migrating | Import/export, field mapping |
+
+| Service              | Purpose                                  | Status        | API Coverage                               |
+|----------------------|------------------------------------------|---------------|--------------------------------------------|
+| **Airtable**         | CRM data management and lead tracking   | ✅ Full       | Complete CRUD operations                   |
+| **Supabase**         | Call log storage and analytics          | ✅ Full       | Real-time data sync                        |
+| **RoofMaxx Connect** | Dealer management and lead tracking     | ✅ Full       | 4,852 dealers, pagination, search         |
+| **Zapier**           | Workflow automation and webhooks        | ✅ Core       | Webhook triggers, batch processing        |
+| **Clay.com**         | Data enrichment workflows               | 🔄 Migrating  | Import/export, field mapping              |
 
 ### 🤖 AI Agents  
-| Agent | Purpose | Status | Uses Services |
-|-------|---------|--------|---------------|
-| **Google Maps Agent** | Extract addresses from Google Maps lists | ✅ Working | Airtable, File I/O |
-| **RoofMaxx Data Agent** | Conversational business intelligence | ✅ Working | Supabase, Analytics |
+
+| Agent                   | Purpose                                   | Status       | Uses Services              |
+|-------------------------|-------------------------------------------|--------------|----------------------------|
+| **Google Maps Agent**   | Extract addresses from Google Maps lists | ✅ Working   | Airtable, File I/O         |
+| **RoofMaxx Data Agent** | Conversational business intelligence     | ✅ Working   | Supabase, Analytics        |
 
 ## 🤖 How Agents Work
 

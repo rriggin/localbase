@@ -86,35 +86,38 @@ street_address,city,state,zip_code
 Your enriched CSV will include all original columns plus:
 
 ### Property Basics
-| Column | Description | Example |
-|--------|-------------|---------|
-| `year_built` | Year property was built | 2006 |
-| `property_type` | Type of property | SINGLE FAMILY |
-| `property_subtype` | Property subtype | DETACHED |
-| `bedrooms` | Number of bedrooms | 3 |
-| `bathrooms_total` | Total bathrooms | 2 |
-| `living_sqft` | Living area square feet | 1,738 |
-| `lot_size_sqft` | Lot size in square feet | 8,712 |
+
+| Column              | Description                  | Example        |
+|---------------------|------------------------------|----------------|
+| `year_built`        | Year property was built      | 2006           |
+| `property_type`     | Type of property             | SINGLE FAMILY  |
+| `property_subtype`  | Property subtype             | DETACHED       |
+| `bedrooms`          | Number of bedrooms           | 3              |
+| `bathrooms_total`   | Total bathrooms              | 2              |
+| `living_sqft`       | Living area square feet      | 1,738          |
+| `lot_size_sqft`     | Lot size in square feet      | 8,712          |
 
 ### Financial Data
-| Column | Description | Example |
-|--------|-------------|---------|
-| `estimated_value` | AVM home value estimate | $285,000 |
-| `avm_high` | High value estimate | $295,000 |
-| `avm_low` | Low value estimate | $275,000 |
-| `assessed_total_value` | Tax assessed value | $125,000 |
-| `last_sale_price` | Most recent sale price | $250,000 |
-| `last_sale_date` | Most recent sale date | 2020-05-15 |
-| `tax_amount` | Annual property tax | $2,850 |
+
+| Column                 | Description                 | Example      |
+|------------------------|-----------------------------|--------------|
+| `estimated_value`      | AVM home value estimate     | $285,000     |
+| `avm_high`             | High value estimate         | $295,000     |
+| `avm_low`              | Low value estimate          | $275,000     |
+| `assessed_total_value` | Tax assessed value          | $125,000     |
+| `last_sale_price`      | Most recent sale price      | $250,000     |
+| `last_sale_date`       | Most recent sale date       | 2020-05-15   |
+| `tax_amount`           | Annual property tax         | $2,850       |
 
 ### Additional Details
-| Column | Description | Example |
-|--------|-------------|---------|
-| `owner_occupied` | Owner occupancy status | OWNER OCCUPIED |
-| `condition` | Property condition | GOOD |
-| `stories` | Number of stories | 2 |
-| `latitude` | Property latitude | 38.7223 |
-| `longitude` | Property longitude | -93.2284 |
+
+| Column            | Description                | Example         |
+|-------------------|----------------------------|-----------------|
+| `owner_occupied`  | Owner occupancy status     | OWNER OCCUPIED  |
+| `condition`       | Property condition         | GOOD            |
+| `stories`         | Number of stories          | 2               |
+| `latitude`        | Property latitude          | 38.7223         |
+| `longitude`       | Property longitude         | -93.2284        |
 
 ## ⚡ Performance
 
