@@ -55,10 +55,11 @@ Thumbs.db
 temp/
 tmp/
 
-# Output files (unless specifically needed)
-data/outputs/*.png
-data/outputs/*.jpg
-data/outputs/*.pdf
+# Data directory - contains sensitive business data and large files
+data/
+# But allow data directory structure documentation
+!data/.gitkeep
+!data/README.md
 
 # Legacy scripts archive
 archive/ .specstory/
